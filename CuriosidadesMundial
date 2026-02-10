@@ -1,0 +1,1089 @@
+{
+  "preguntas": [
+    {
+      "respuestaCorrecta": "LIONEL MESSI",
+      "wins": 99,
+      "equipos": ["Newell's Old Boys", "Paris Saint-Germain"]
+    },
+    {
+      "respuestaCorrecta": "CRISTIANO RONALDO",
+      "wins": 99,
+      "equipos": ["Sporting de Lisboa", "Al-Nassr"]
+    },
+    {
+      "respuestaCorrecta": "PELÉ",
+      "wins": 98,
+      "equipos": ["Santos", "New York Cosmos"]
+    },
+    {
+      "respuestaCorrecta": "DIEGO MARADONA",
+      "wins": 98,
+      "equipos": ["Argentinos Juniors", "Sevilla"]
+    },
+    {
+      "respuestaCorrecta": "ZINEDINE ZIDANE",
+      "wins": 97,
+      "equipos": ["Cannes", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "RONALDO NAZÁRIO",
+      "wins": 97,
+      "equipos": ["Cruzeiro", "PSV Eindhoven"]
+    },
+    {
+      "respuestaCorrecta": "JOHAN CRUYFF",
+      "wins": 96,
+      "equipos": ["Ajax", "Feyenoord"]
+    },
+    {
+      "respuestaCorrecta": "FRANZ BECKENBAUER",
+      "wins": 95,
+      "equipos": ["Bayern Múnich", "Hamburgo"]
+    },
+    {
+      "respuestaCorrecta": "RONALDINHO GAÚCHO",
+      "wins": 96,
+      "equipos": ["Grêmio", "Querétaro"]
+    },
+    {
+      "respuestaCorrecta": "ANDRÉS INIESTA",
+      "wins": 95,
+      "equipos": ["Barcelona", "Vissel Kobe"]
+    },
+    {
+      "respuestaCorrecta": "XAVI HERNÁNDEZ",
+      "wins": 94,
+      "equipos": ["Barcelona", "Al-Sadd"]
+    },
+    {
+      "respuestaCorrecta": "IKER CASILLAS",
+      "wins": 93,
+      "equipos": ["Real Madrid", "Porto"]
+    },
+    {
+      "respuestaCorrecta": "GIANLUIGI BUFFON",
+      "wins": 94,
+      "equipos": ["Parma", "Paris Saint-Germain"]
+    },
+    {
+      "respuestaCorrecta": "PAOLO MALDINI",
+      "wins": 95,
+      "equipos": ["Milan", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "ROBERTO BAGGIO",
+      "wins": 92,
+      "equipos": ["Fiorentina", "Brescia"]
+    },
+    {
+      "respuestaCorrecta": "THIERRY HENRY",
+      "wins": 93,
+      "equipos": ["Mónaco", "New York Red Bulls"]
+    },
+    {
+      "respuestaCorrecta": "MICHEL PLATINI",
+      "wins": 91,
+      "equipos": ["Nancy", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "LOTHAR MATTHÄUS",
+      "wins": 90,
+      "equipos": ["Borussia Mönchengladbach", "MetroStars"]
+    },
+    {
+      "respuestaCorrecta": "MIROSLAV KLOSE",
+      "wins": 89,
+      "equipos": ["Kaiserslautern", "Lazio"]
+    },
+    {
+      "respuestaCorrecta": "PHILIPP LAHM",
+      "wins": 88,
+      "equipos": ["Stuttgart", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "MANUEL NEUER",
+      "wins": 90,
+      "equipos": ["Schalke 04", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "CARLES PUYOL",
+      "wins": 92,
+      "equipos": ["Barcelona", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO RAMOS",
+      "wins": 93,
+      "equipos": ["Sevilla", "Paris Saint-Germain"]
+    },
+    {
+      "respuestaCorrecta": "GERARD PIQUÉ",
+      "wins": 91,
+      "equipos": ["Manchester United", "Zaragoza"]
+    },
+    {
+      "respuestaCorrecta": "DAVID VILLA",
+      "wins": 89,
+      "equipos": ["Sporting de Gijón", "Melbourne City"]
+    },
+    {
+      "respuestaCorrecta": "FERNANDO TORRES",
+      "wins": 88,
+      "equipos": ["Atlético de Madrid", "Sagan Tosu"]
+    },
+    {
+      "respuestaCorrecta": "RAÚL GONZÁLEZ",
+      "wins": 90,
+      "equipos": ["Schalke 04", "Al-Sadd"]
+    },
+    {
+      "respuestaCorrecta": "LUIS FIGO",
+      "wins": 92,
+      "equipos": ["Sporting de Lisboa", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "EUSÉBIO",
+      "wins": 91,
+      "equipos": ["Benfica", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "RIVALDO",
+      "wins": 90,
+      "equipos": ["Deportivo La Coruña", "Bunyodkor"]
+    },
+    {
+      "respuestaCorrecta": "ROBERTO CARLOS",
+      "wins": 93,
+      "equipos": ["Inter de Milán", "Fenerbahçe"]
+    },
+    {
+      "respuestaCorrecta": "CAFÚ",
+      "wins": 92,
+      "equipos": ["Zaragoza", "Roma"]
+    },
+    {
+      "respuestaCorrecta": "KAKÁ",
+      "wins": 91,
+      "equipos": ["São Paulo", "Orlando City"]
+    },
+    {
+      "respuestaCorrecta": "NEYMAR JR",
+      "wins": 94,
+      "equipos": ["Santos", "Al-Hilal"]
+    },
+    {
+      "respuestaCorrecta": "DANI ALVES",
+      "wins": 90,
+      "equipos": ["Bahía", "Pumas UNAM"]
+    },
+    {
+      "respuestaCorrecta": "ROMÁRIO",
+      "wins": 93,
+      "equipos": ["PSV Eindhoven", "Miami FC"]
+    },
+    {
+      "respuestaCorrecta": "BEBETO",
+      "wins": 88,
+      "equipos": ["Deportivo La Coruña", "Kashima Antlers"]
+    },
+    {
+      "respuestaCorrecta": "GABRIEL BATISTUTA",
+      "wins": 90,
+      "equipos": ["Newell's Old Boys", "Al-Arabi"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER ZANETTI",
+      "wins": 89,
+      "equipos": ["Talleres (RE)", "Banfield"]
+    },
+    {
+      "respuestaCorrecta": "JUAN ROMÁN RIQUELME",
+      "wins": 88,
+      "equipos": ["Barcelona", "Villarreal"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO AGÜERO",
+      "wins": 87,
+      "equipos": ["Independiente", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "ÁNGEL DI MARÍA",
+      "wins": 89,
+      "equipos": ["Rosario Central", "Benfica"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER MASCHERANO",
+      "wins": 86,
+      "equipos": ["Corinthians", "West Ham United"]
+    },
+    {
+      "respuestaCorrecta": "DIEGO FORLÁN",
+      "wins": 88,
+      "equipos": ["Independiente", "Kitchee SC"]
+    },
+    {
+      "respuestaCorrecta": "LUIS SUÁREZ",
+      "wins": 92,
+      "equipos": ["Nacional (Uru)", "Groningen"]
+    },
+    {
+      "respuestaCorrecta": "EDINSON CAVANI",
+      "wins": 89,
+      "equipos": ["Danubio", "Palermo"]
+    },
+    {
+      "respuestaCorrecta": "ENZO FRANCESCOLI",
+      "wins": 87,
+      "equipos": ["Wanderers", "Racing Club de París"]
+    },
+    {
+      "respuestaCorrecta": "ALEXIS SÁNCHEZ",
+      "wins": 86,
+      "equipos": ["Cobreloa", "Udinese"]
+    },
+    {
+      "respuestaCorrecta": "ARTURO VIDAL",
+      "wins": 85,
+      "equipos": ["Colo-Colo", "Bayer Leverkusen"]
+    },
+    {
+      "respuestaCorrecta": "IVAN ZAMORANO",
+      "wins": 84,
+      "equipos": ["St. Gallen", "América (México)"]
+    },
+    {
+      "respuestaCorrecta": "MARCELO SALAS",
+      "wins": 83,
+      "equipos": ["Universidad de Chile", "Lazio"]
+    },
+    {
+      "respuestaCorrecta": "JOSÉ LUIS CHILAVERT",
+      "wins": 88,
+      "equipos": ["Sportivo Luqueño", "Estrasburgo"]
+    },
+    {
+      "respuestaCorrecta": "TEÓFILO CUBILLAS",
+      "wins": 82,
+      "equipos": ["Alianza Lima", "Porto"]
+    },
+    {
+      "respuestaCorrecta": "MARCO ETCHEVERRY",
+      "wins": 78,
+      "equipos": ["Bolívar", "D.C. United"]
+    },
+    {
+      "respuestaCorrecta": "RAFA MÁRQUEZ",
+      "wins": 86,
+      "equipos": ["Atlas", "Hellas Verona"]
+    },
+    {
+      "respuestaCorrecta": "HUGO SÁNCHEZ",
+      "wins": 89,
+      "equipos": ["Pumas UNAM", "Rayo Vallecano"]
+    },
+    {
+      "respuestaCorrecta": "CUAUHTÉMOC BLANCO",
+      "wins": 84,
+      "equipos": ["América (México)", "Real Valladolid"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER HERNÁNDEZ",
+      "wins": 83,
+      "equipos": ["Guadalajara", "Bayer Leverkusen"]
+    },
+    {
+      "respuestaCorrecta": "KEYLOR NAVAS",
+      "wins": 87,
+      "equipos": ["Saprissa", "Nottingham Forest"]
+    },
+    {
+      "respuestaCorrecta": "LANDON DONOVAN",
+      "wins": 80,
+      "equipos": ["San Jose Earthquakes", "Everton"]
+    },
+    {
+      "respuestaCorrecta": "TIM HOWARD",
+      "wins": 79,
+      "equipos": ["MetroStars", "Everton"]
+    },
+    {
+      "respuestaCorrecta": "DIDIER DROGBA",
+      "wins": 90,
+      "equipos": ["Guingamp", "Shanghai Shenhua"]
+    },
+    {
+      "respuestaCorrecta": "SAMUEL ETO'O",
+      "wins": 91,
+      "equipos": ["Mallorca", "Anzhi Makhachkala"]
+    },
+    {
+      "respuestaCorrecta": "ROGER MILLA",
+      "wins": 85,
+      "equipos": ["Bastia", "Saint-Pierroise"]
+    },
+    {
+      "respuestaCorrecta": "YAYA TOURÉ",
+      "wins": 88,
+      "equipos": ["Olympiacos", "Qingdao Huanghai"]
+    },
+    {
+      "respuestaCorrecta": "SADIO MANÉ",
+      "wins": 87,
+      "equipos": ["Metz", "Al-Nassr"]
+    },
+    {
+      "respuestaCorrecta": "MOHAMED SALAH",
+      "wins": 89,
+      "equipos": ["Basilea", "Fiorentina"]
+    },
+    {
+      "respuestaCorrecta": "GEORGE WEAH",
+      "wins": 86,
+      "equipos": ["Tonnerre Yaoundé", "Al-Jazira"]
+    },
+    {
+      "respuestaCorrecta": "DAVID BECKHAM",
+      "wins": 93,
+      "equipos": ["Preston North End", "LA Galaxy"]
+    },
+    {
+      "respuestaCorrecta": "WAYNE ROONEY",
+      "wins": 91,
+      "equipos": ["Everton", "D.C. United"]
+    },
+    {
+      "respuestaCorrecta": "STEVEN GERRARD",
+      "wins": 90,
+      "equipos": ["Liverpool", "LA Galaxy"]
+    },
+    {
+      "respuestaCorrecta": "FRANK LAMPARD",
+      "wins": 90,
+      "equipos": ["West Ham United", "New York City FC"]
+    },
+    {
+      "respuestaCorrecta": "HARRY KANE",
+      "wins": 89,
+      "equipos": ["Leicester City", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "GARETH BALE",
+      "wins": 88,
+      "equipos": ["Southampton", "LAFC"]
+    },
+    {
+      "respuestaCorrecta": "LUKA MODRIC",
+      "wins": 94,
+      "equipos": ["Dinamo Zagreb", "Tottenham Hotspur"]
+    },
+    {
+      "respuestaCorrecta": "DAVOR SUKER",
+      "wins": 85,
+      "equipos": ["Sevilla", "West Ham United"]
+    },
+    {
+      "respuestaCorrecta": "ROBERT LEWANDOWSKI",
+      "wins": 92,
+      "equipos": ["Lech Poznan", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "HRISTO STOICHKOV",
+      "wins": 86,
+      "equipos": ["CSKA Sofía", "Kashiwa Reysol"]
+    },
+    {
+      "respuestaCorrecta": "GHEORGHE HAGI",
+      "wins": 87,
+      "equipos": ["Steaua Bucarest", "Brescia"]
+    },
+    {
+      "respuestaCorrecta": "ZLATAN IBRAHIMOVIC",
+      "wins": 93,
+      "equipos": ["Malmö", "LA Galaxy"]
+    },
+    {
+      "respuestaCorrecta": "HENRIK LARSSON",
+      "wins": 84,
+      "equipos": ["Feyenoord", "Helsingborgs"]
+    },
+    {
+      "respuestaCorrecta": "PETER SCHMEICHEL",
+      "wins": 85,
+      "equipos": ["Brøndby", "Sporting de Lisboa"]
+    },
+    {
+      "respuestaCorrecta": "MICHAEL LAUDRUP",
+      "wins": 87,
+      "equipos": ["Lazio", "Vissel Kobe"]
+    },
+    {
+      "respuestaCorrecta": "ARJEN ROBBEN",
+      "wins": 90,
+      "equipos": ["Groningen", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "WESLEY SNEIJDER",
+      "wins": 88,
+      "equipos": ["Ajax", "Galatasaray"]
+    },
+    {
+      "respuestaCorrecta": "ROBIN VAN PERSIE",
+      "wins": 89,
+      "equipos": ["Feyenoord", "Fenerbahçe"]
+    },
+    {
+      "respuestaCorrecta": "RUUD GULLIT",
+      "wins": 89,
+      "equipos": ["PSV Eindhoven", "Sampdoria"]
+    },
+    {
+      "respuestaCorrecta": "MARCO VAN BASTEN",
+      "wins": 91,
+      "equipos": ["Ajax", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "DENNIS BERGKAMP",
+      "wins": 88,
+      "equipos": ["Ajax", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "EDWIN VAN DER SAR",
+      "wins": 86,
+      "equipos": ["Juventus", "Fulham"]
+    },
+    {
+      "respuestaCorrecta": "ANDREA PIRLO",
+      "wins": 92,
+      "equipos": ["Brescia", "New York City FC"]
+    },
+    {
+      "respuestaCorrecta": "FRANCESCO TOTTI",
+      "wins": 91,
+      "equipos": ["Roma", "Roma"]
+    },
+    {
+      "respuestaCorrecta": "ALESSANDRO DEL PIERO",
+      "wins": 90,
+      "equipos": ["Padova", "Sydney FC"]
+    },
+    {
+      "respuestaCorrecta": "FABIO CANNAVARO",
+      "wins": 91,
+      "equipos": ["Napoli", "Al-Ahli"]
+    },
+    {
+      "respuestaCorrecta": "GENNARO GATTUSO",
+      "wins": 87,
+      "equipos": ["Perugia", "Rangers"]
+    },
+    {
+      "respuestaCorrecta": "PATRICK VIEIRA",
+      "wins": 88,
+      "equipos": ["Cannes", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "LILIAN THURAM",
+      "wins": 86,
+      "equipos": ["Mónaco", "Parma"]
+    },
+    {
+      "respuestaCorrecta": "KYLIAN MBAPPÉ",
+      "wins": 95,
+      "equipos": ["Mónaco", "Paris Saint-Germain"]
+    },
+    {
+      "respuestaCorrecta": "ANTOINE GRIEZMANN",
+      "wins": 90,
+      "equipos": ["Real Sociedad", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "KARIM BENZEMA",
+      "wins": 92,
+      "equipos": ["Lyon", "Al-Ittihad"]
+    },
+    {
+      "respuestaCorrecta": "OLIVER KAHN",
+      "wins": 89,
+      "equipos": ["Karlsruher", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "BASTIAN SCHWEINSTEIGER",
+      "wins": 88,
+      "equipos": ["Bayern Múnich", "Chicago Fire"]
+    },
+    {
+      "respuestaCorrecta": "TONI KROOS",
+      "wins": 91,
+      "equipos": ["Bayer Leverkusen", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "THOMAS MÜLLER",
+      "wins": 90,
+      "equipos": ["Bayern Múnich", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "MICHAEL BALLACK",
+      "wins": 87,
+      "equipos": ["Kaiserslautern", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "JÜRGEN KLINSMANN",
+      "wins": 86,
+      "equipos": ["Stuttgart", "Tottenham Hotspur"]
+    },
+
+
+
+
+
+
+
+
+
+{
+      "respuestaCorrecta": "ZICO",
+      "wins": 96,
+      "equipos": ["Flamengo", "Udinese"]
+    },
+    {
+      "respuestaCorrecta": "SÓCRATES",
+      "wins": 94,
+      "equipos": ["Corinthians", "Fiorentina"]
+    },
+    {
+      "respuestaCorrecta": "GÉRSON",
+      "wins": 91,
+      "equipos": ["Botafogo", "São Paulo"]
+    },
+    {
+      "respuestaCorrecta": "JAIRZINHO",
+      "wins": 93,
+      "equipos": ["Botafogo", "Marsella"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS ALBERTO",
+      "wins": 92,
+      "equipos": ["Santos", "New York Cosmos"]
+    },
+    {
+      "respuestaCorrecta": "RIVELLINO",
+      "wins": 93,
+      "equipos": ["Corinthians", "Fluminense"]
+    },
+    {
+      "respuestaCorrecta": "TOSTÃO",
+      "wins": 90,
+      "equipos": ["Cruzeiro", "Vasco da Gama"]
+    },
+    {
+      "respuestaCorrecta": "DIDA",
+      "wins": 89,
+      "equipos": ["Cruzeiro", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "TAFFAREL",
+      "wins": 88,
+      "equipos": ["Parma", "Galatasaray"]
+    },
+    {
+      "respuestaCorrecta": "DUNGA",
+      "wins": 87,
+      "equipos": ["Fiorentina", "Júbilo Iwata"]
+    },
+    {
+      "respuestaCorrecta": "LÚCIO",
+      "wins": 86,
+      "equipos": ["Bayer Leverkusen", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "MAICON",
+      "wins": 85,
+      "equipos": ["Mónaco", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "GILBERTO SILVA",
+      "wins": 84,
+      "equipos": ["Atlético Mineiro", "Arsenal"]
+    },
+    {
+      "respuestaCorrecta": "ADRIANO IMPERADOR",
+      "wins": 88,
+      "equipos": ["Flamengo", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "ROBINHO",
+      "wins": 86,
+      "equipos": ["Santos", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "MARIO KEMPES",
+      "wins": 94,
+      "equipos": ["Rosario Central", "Valencia"]
+    },
+    {
+      "respuestaCorrecta": "DANIEL PASSARELLA",
+      "wins": 93,
+      "equipos": ["River Plate", "Fiorentina"]
+    },
+    {
+      "respuestaCorrecta": "UBALDO FILLOL",
+      "wins": 91,
+      "equipos": ["River Plate", "Atlético de Madrid"]
+    },
+    {
+      "respuestaCorrecta": "JORGE VALDANO",
+      "wins": 89,
+      "equipos": ["Zaragoza", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "OSCAR RUGGERI",
+      "wins": 88,
+      "equipos": ["Boca Juniors", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "JORGE BURRUCHAGA",
+      "wins": 87,
+      "equipos": ["Independiente", "Nantes"]
+    },
+    {
+      "respuestaCorrecta": "JUAN SEBASTIÁN VERÓN",
+      "wins": 89,
+      "equipos": ["Estudiantes LP", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "HERNÁN CRESPO",
+      "wins": 88,
+      "equipos": ["Parma", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER SAVIOLA",
+      "wins": 85,
+      "equipos": ["River Plate", "Benfica"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS TEVEZ",
+      "wins": 89,
+      "equipos": ["Boca Juniors", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "GONZALO HIGUAÍN",
+      "wins": 87,
+      "equipos": ["Napoli", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "ESTEBAN CAMBIASSO",
+      "wins": 86,
+      "equipos": ["Real Madrid", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "EMILIANO MARTÍNEZ",
+      "wins": 88,
+      "equipos": ["Arsenal", "Aston Villa"]
+    },
+    {
+      "respuestaCorrecta": "JULIÁN ÁLVAREZ",
+      "wins": 85,
+      "equipos": ["River Plate", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "RODRIGO DE PAUL",
+      "wins": 84,
+      "equipos": ["Racing Club", "Atlético de Madrid"]
+    },
+    {
+      "respuestaCorrecta": "PAOLO ROSSI",
+      "wins": 93,
+      "equipos": ["Vicenza", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "DINO ZOFF",
+      "wins": 94,
+      "equipos": ["Napoli", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "MARCO TARDELLI",
+      "wins": 90,
+      "equipos": ["Juventus", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "FRANCO BARESI",
+      "wins": 95,
+      "equipos": ["Milan", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "ALESSANDRO NESTA",
+      "wins": 92,
+      "equipos": ["Lazio", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "CHRISTIAN VIERI",
+      "wins": 89,
+      "equipos": ["Atlético de Madrid", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "FILIPPO INZAGHI",
+      "wins": 88,
+      "equipos": ["Juventus", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "GIANLUCA ZAMBROTTA",
+      "wins": 87,
+      "equipos": ["Juventus", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "MAURO CAMORANESI",
+      "wins": 85,
+      "equipos": ["Verona", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "DANIELE DE ROSSI",
+      "wins": 88,
+      "equipos": ["Roma", "Boca Juniors"]
+    },
+    {
+      "respuestaCorrecta": "KARL-HEINZ RUMMENIGGE",
+      "wins": 93,
+      "equipos": ["Bayern Múnich", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "PAUL BREITNER",
+      "wins": 91,
+      "equipos": ["Bayern Múnich", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "SEPP MAIER",
+      "wins": 90,
+      "equipos": ["Bayern Múnich", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "RUDI VÖLLER",
+      "wins": 89,
+      "equipos": ["Roma", "Marsella"]
+    },
+    {
+      "respuestaCorrecta": "ANDREAS BREHME",
+      "wins": 88,
+      "equipos": ["Kaiserslautern", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "LUKAS PODOLSKI",
+      "wins": 86,
+      "equipos": ["Colonia", "Arsenal"]
+    },
+    {
+      "respuestaCorrecta": "MESUT ÖZIL",
+      "wins": 89,
+      "equipos": ["Werder Bremen", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "SAMI KHEDIRA",
+      "wins": 85,
+      "equipos": ["Stuttgart", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "MATS HUMMELS",
+      "wins": 87,
+      "equipos": ["Borussia Dortmund", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "MARIO GÖTZE",
+      "wins": 84,
+      "equipos": ["Borussia Dortmund", "PSV Eindhoven"]
+    },
+    {
+      "respuestaCorrecta": "DIDIER DESCHAMPS",
+      "wins": 90,
+      "equipos": ["Marsella", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "MARCEL DESAILLY",
+      "wins": 91,
+      "equipos": ["Milan", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "LAURENT BLANC",
+      "wins": 89,
+      "equipos": ["Barcelona", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "FABIEN BARTHEZ",
+      "wins": 88,
+      "equipos": ["Mónaco", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "BIXENTE LIZARAZU",
+      "wins": 87,
+      "equipos": ["Athletic Club", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "DAVID TREZEGUET",
+      "wins": 88,
+      "equipos": ["Mónaco", "Juventus"]
+    },
+    {
+      "respuestaCorrecta": "ROBERT PIRÈS",
+      "wins": 86,
+      "equipos": ["Marsella", "Arsenal"]
+    },
+    {
+      "respuestaCorrecta": "PAUL POGBA",
+      "wins": 89,
+      "equipos": ["Juventus", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "N'GOLO KANTÉ",
+      "wins": 90,
+      "equipos": ["Leicester City", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "HUGO LLORIS",
+      "wins": 87,
+      "equipos": ["Lyon", "Tottenham Hotspur"]
+    },
+    {
+      "respuestaCorrecta": "XABI ALONSO",
+      "wins": 92,
+      "equipos": ["Liverpool", "Bayern Múnich"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO BUSQUETS",
+      "wins": 93,
+      "equipos": ["Barcelona", "Inter Miami"]
+    },
+    {
+      "respuestaCorrecta": "CESC FÀBREGAS",
+      "wins": 89,
+      "equipos": ["Arsenal", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "DAVID SILVA",
+      "wins": 88,
+      "equipos": ["Valencia", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "PEP GUARDIOLA",
+      "wins": 87,
+      "equipos": ["Barcelona", "Brescia"]
+    },
+    {
+      "respuestaCorrecta": "FERNANDO HIERRO",
+      "wins": 89,
+      "equipos": ["Real Madrid", "Bolton Wanderers"]
+    },
+    {
+      "respuestaCorrecta": "LUIS ENRIQUE",
+      "wins": 86,
+      "equipos": ["Real Madrid", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "PEDRO RODRÍGUEZ",
+      "wins": 85,
+      "equipos": ["Barcelona", "Lazio"]
+    },
+    {
+      "respuestaCorrecta": "JORDI ALBA",
+      "wins": 87,
+      "equipos": ["Valencia", "Inter Miami"]
+    },
+    {
+      "respuestaCorrecta": "ANDONI ZUBIZARRETA",
+      "wins": 84,
+      "equipos": ["Athletic Club", "Valencia"]
+    },
+    {
+      "respuestaCorrecta": "FRANK RIJKAARD",
+      "wins": 92,
+      "equipos": ["Ajax", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "RONALD KOEMAN",
+      "wins": 90,
+      "equipos": ["PSV Eindhoven", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "PATRICK KLUIVERT",
+      "wins": 88,
+      "equipos": ["Ajax", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "EDGAR DAVIDS",
+      "wins": 89,
+      "equipos": ["Juventus", "Tottenham Hotspur"]
+    },
+    {
+      "respuestaCorrecta": "CLARENCE SEEDORF",
+      "wins": 91,
+      "equipos": ["Real Madrid", "Botafogo"]
+    },
+    {
+      "respuestaCorrecta": "JAAP STAM",
+      "wins": 87,
+      "equipos": ["Manchester United", "Lazio"]
+    },
+    {
+      "respuestaCorrecta": "VIRGIL VAN DIJK",
+      "wins": 88,
+      "equipos": ["Celtic", "Liverpool"]
+    },
+    {
+      "respuestaCorrecta": "JOHAN NEESKENS",
+      "wins": 90,
+      "equipos": ["Ajax", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "RUUD KROL",
+      "wins": 88,
+      "equipos": ["Ajax", "Napoli"]
+    },
+    {
+      "respuestaCorrecta": "JOHNNY REP",
+      "wins": 86,
+      "equipos": ["Ajax", "Bastia"]
+    },
+    {
+      "respuestaCorrecta": "BOBBY CHARLTON",
+      "wins": 94,
+      "equipos": ["Manchester United", "Preston North End"]
+    },
+    {
+      "respuestaCorrecta": "GORDON BANKS",
+      "wins": 92,
+      "equipos": ["Leicester City", "Stoke City"]
+    },
+    {
+      "respuestaCorrecta": "GARY LINEKER",
+      "wins": 90,
+      "equipos": ["Barcelona", "Tottenham Hotspur"]
+    },
+    {
+      "respuestaCorrecta": "ALAN SHEARER",
+      "wins": 89,
+      "equipos": ["Blackburn Rovers", "Newcastle"]
+    },
+    {
+      "respuestaCorrecta": "MICHAEL OWEN",
+      "wins": 88,
+      "equipos": ["Liverpool", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "PAUL SCHOLES",
+      "wins": 89,
+      "equipos": ["Manchester United", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "RIO FERDINAND",
+      "wins": 88,
+      "equipos": ["Leeds United", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "JOHN TERRY",
+      "wins": 87,
+      "equipos": ["Chelsea", "Aston Villa"]
+    },
+    {
+      "respuestaCorrecta": "ASHLEY COLE",
+      "wins": 86,
+      "equipos": ["Arsenal", "Roma"]
+    },
+    {
+      "respuestaCorrecta": "JORDAN PICKFORD",
+      "wins": 82,
+      "equipos": ["Sunderland", "Everton"]
+    },
+    {
+      "respuestaCorrecta": "KEVIN DE BRUYNE",
+      "wins": 92,
+      "equipos": ["Wolfsburgo", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "EDEN HAZARD",
+      "wins": 90,
+      "equipos": ["Lille", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "THIBAUT COURTOIS",
+      "wins": 91,
+      "equipos": ["Atlético de Madrid", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "ROMELU LUKAKU",
+      "wins": 88,
+      "equipos": ["Everton", "Inter de Milán"]
+    },
+    {
+      "respuestaCorrecta": "IVAN RAKITIC",
+      "wins": 87,
+      "equipos": ["Schalke 04", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "IVAN PERISIC",
+      "wins": 85,
+      "equipos": ["Inter de Milán", "Tottenham Hotspur"]
+    },
+    {
+      "respuestaCorrecta": "DECO",
+      "wins": 89,
+      "equipos": ["Porto", "Barcelona"]
+    },
+    {
+      "respuestaCorrecta": "RUI COSTA",
+      "wins": 88,
+      "equipos": ["Fiorentina", "Milan"]
+    },
+    {
+      "respuestaCorrecta": "PEPE",
+      "wins": 89,
+      "equipos": ["Real Madrid", "Porto"]
+    },
+    {
+      "respuestaCorrecta": "BRUNO FERNANDES",
+      "wins": 86,
+      "equipos": ["Udinese", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "DIEGO GODÍN",
+      "wins": 87,
+      "equipos": ["Villarreal", "Atlético de Madrid"]
+    },
+    {
+      "respuestaCorrecta": "FERNANDO MUSLERA",
+      "wins": 84,
+      "equipos": ["Lazio", "Galatasaray"]
+    },
+    {
+      "respuestaCorrecta": "SON HEUNG-MIN",
+      "wins": 88,
+      "equipos": ["Hamburgo", "Tottenham Hotspur"]
+    },
+    {
+      "respuestaCorrecta": "PARK JI-SUNG",
+      "wins": 86,
+      "equipos": ["PSV Eindhoven", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "HIDETOSHI NAKATA",
+      "wins": 83,
+      "equipos": ["Perugia", "Roma"]
+    },
+    {
+      "respuestaCorrecta": "TIM CAHILL",
+      "wins": 82,
+      "equipos": ["Everton", "New York Red Bulls"]
+    },
+    {
+      "respuestaCorrecta": "ASAMOAH GYAN",
+      "wins": 81,
+      "equipos": ["Udinese", "Sunderland"]
+    },
+    {
+      "respuestaCorrecta": "ANDRIY SHEVCHENKO",
+      "wins": 91,
+      "equipos": ["Milan", "Chelsea"]
+    },
+    {
+      "respuestaCorrecta": "PETR CECH",
+      "wins": 90,
+      "equipos": ["Rennes", "Chelsea"]
+    }
+
+  ]
+}
