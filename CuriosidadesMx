@@ -1,1 +1,504 @@
-
+{
+  "preguntas": [
+    {
+      "respuestaCorrecta": "HUGO SÁNCHEZ",
+      "wins": 99,
+      "equipos": ["Pumas UNAM", "Atlético de Madrid"]
+    },
+    {
+      "respuestaCorrecta": "RAFAEL MÁRQUEZ",
+      "wins": 98,
+      "equipos": ["Atlas", "AS Monaco"]
+    },
+    {
+      "respuestaCorrecta": "CUAUHTÉMOC BLANCO",
+      "wins": 97,
+      "equipos": ["América", "Necaxa"]
+    },
+    {
+      "respuestaCorrecta": "JORGE CAMPOS",
+      "wins": 96,
+      "equipos": ["Pumas UNAM", "Atlante"]
+    },
+    {
+      "respuestaCorrecta": "JOSÉ CARDOZO",
+      "wins": 98,
+      "equipos": ["Olimpia", "Toluca"]
+    },
+    {
+      "respuestaCorrecta": "ANDRÉ-PIERRE GIGNAC",
+      "wins": 95,
+      "equipos": ["Marsella", "Tigres UANL"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER HERNÁNDEZ",
+      "wins": 94,
+      "equipos": ["Guadalajara", "Manchester United"]
+    },
+    {
+      "respuestaCorrecta": "JARED BORGETTI",
+      "wins": 93,
+      "equipos": ["Atlas", "Santos Laguna"]
+    },
+    {
+      "respuestaCorrecta": "CLAUDIO SUÁREZ",
+      "wins": 92,
+      "equipos": ["Pumas UNAM", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "CABINHO",
+      "wins": 96,
+      "equipos": ["Pumas UNAM", "Atlante"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS HERMOSILLO",
+      "wins": 91,
+      "equipos": ["América", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "OSWALDO SÁNCHEZ",
+      "wins": 90,
+      "equipos": ["Atlas", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "LUIS GARCÍA",
+      "wins": 89,
+      "equipos": ["Pumas UNAM", "Atlético de Madrid"]
+    },
+    {
+      "respuestaCorrecta": "ALBERTO GARCÍA ASPE",
+      "wins": 88,
+      "equipos": ["Pumas UNAM", "Necaxa"]
+    },
+    {
+      "respuestaCorrecta": "ZAGUE",
+      "wins": 89,
+      "equipos": ["América", "Atlante"]
+    },
+    {
+      "respuestaCorrecta": "BENJAMÍN GALINDO",
+      "wins": 87,
+      "equipos": ["Tampico Madero", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "ALEX AGUINAGA",
+      "wins": 92,
+      "equipos": ["Deportivo Quito", "Necaxa"]
+    },
+    {
+      "respuestaCorrecta": "MIGUEL CALERO",
+      "wins": 93,
+      "equipos": ["Deportivo Cali", "Pachuca"]
+    },
+    {
+      "respuestaCorrecta": "HUMBERTO SUAZO",
+      "wins": 91,
+      "equipos": ["Colo-Colo", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "CHRISTIAN BENÍTEZ",
+      "wins": 90,
+      "equipos": ["El Nacional", "Santos Laguna"]
+    },
+    {
+      "respuestaCorrecta": "GUILLERMO OCHOA",
+      "wins": 92,
+      "equipos": ["América", "Ajaccio"]
+    },
+    {
+      "respuestaCorrecta": "ANDRÉS GUARDADO",
+      "wins": 91,
+      "equipos": ["Atlas", "Deportivo La Coruña"]
+    },
+    {
+      "respuestaCorrecta": "SINHA",
+      "wins": 88,
+      "equipos": ["Saltillo", "Toluca"]
+    },
+    {
+      "respuestaCorrecta": "RODRIGO RUIZ",
+      "wins": 87,
+      "equipos": ["Toros Neza", "Santos Laguna"]
+    },
+    {
+      "respuestaCorrecta": "ORIBE PERALTA",
+      "wins": 89,
+      "equipos": ["Santos Laguna", "América"]
+    },
+    {
+      "respuestaCorrecta": "HIRVING LOZANO",
+      "wins": 88,
+      "equipos": ["Pachuca", "PSV Eindhoven"]
+    },
+    {
+      "respuestaCorrecta": "RAÚL JIMÉNEZ",
+      "wins": 87,
+      "equipos": ["América", "Atlético de Madrid"]
+    },
+    {
+      "respuestaCorrecta": "HÉCTOR HERRERA",
+      "wins": 86,
+      "equipos": ["Pachuca", "Porto"]
+    },
+    {
+      "respuestaCorrecta": "EDSON ÁLVAREZ",
+      "wins": 85,
+      "equipos": ["América", "Ajax"]
+    },
+    {
+      "respuestaCorrecta": "JESÚS CORONA",
+      "wins": 84,
+      "equipos": ["Monterrey", "Twente"]
+    },
+    {
+      "respuestaCorrecta": "SALVADOR CABAÑAS",
+      "wins": 90,
+      "equipos": ["Jaguares", "América"]
+    },
+    {
+      "respuestaCorrecta": "DARÍO VERÓN",
+      "wins": 88,
+      "equipos": ["Cobreloa", "Pumas UNAM"]
+    },
+    {
+      "respuestaCorrecta": "PAULO DA SILVA",
+      "wins": 87,
+      "equipos": ["Lanús", "Toluca"]
+    },
+    {
+      "respuestaCorrecta": "LUCAS LOBOS",
+      "wins": 86,
+      "equipos": ["Cádiz", "Tigres UANL"]
+    },
+    {
+      "respuestaCorrecta": "DAMIÁN ÁLVAREZ",
+      "wins": 85,
+      "equipos": ["River Plate", "Pachuca"]
+    },
+    {
+      "respuestaCorrecta": "CHACO GIMÉNEZ",
+      "wins": 88,
+      "equipos": ["Veracruz", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "EMANUEL VILLA",
+      "wins": 84,
+      "equipos": ["Atlas", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "JACKSON MARTÍNEZ",
+      "wins": 86,
+      "equipos": ["Indep. Medellín", "Jaguares"]
+    },
+    {
+      "respuestaCorrecta": "DORLAN PABÓN",
+      "wins": 83,
+      "equipos": ["Atlético Nacional", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "GUIDO PIZARRO",
+      "wins": 84,
+      "equipos": ["Lanús", "Tigres UANL"]
+    },
+    {
+      "respuestaCorrecta": "NAHUEL GUZMÁN",
+      "wins": 87,
+      "equipos": ["Newell's", "Tigres UANL"]
+    },
+    {
+      "respuestaCorrecta": "MAURO BOSELLI",
+      "wins": 85,
+      "equipos": ["Estudiantes", "León"]
+    },
+    {
+      "respuestaCorrecta": "RUBENS SAMBUEZA",
+      "wins": 86,
+      "equipos": ["River Plate", "América"]
+    },
+    {
+      "respuestaCorrecta": "LUIS MONTES",
+      "wins": 82,
+      "equipos": ["Pachuca", "León"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS PEÑA",
+      "wins": 80,
+      "equipos": ["Pachuca", "León"]
+    },
+    {
+      "respuestaCorrecta": "ADOLFO BAUTISTA",
+      "wins": 83,
+      "equipos": ["Tecos", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "RAMÓN RAMÍREZ",
+      "wins": 85,
+      "equipos": ["Santos Laguna", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "PAVEL PARDO",
+      "wins": 88,
+      "equipos": ["Atlas", "Stuttgart"]
+    },
+    {
+      "respuestaCorrecta": "RICARDO OSORIO",
+      "wins": 84,
+      "equipos": ["Cruz Azul", "Stuttgart"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS SALCIDO",
+      "wins": 87,
+      "equipos": ["Guadalajara", "PSV Eindhoven"]
+    },
+    {
+      "respuestaCorrecta": "FRANCISCO RODRÍGUEZ",
+      "wins": 83,
+      "equipos": ["Guadalajara", "PSV Eindhoven"]
+    },
+    {
+      "respuestaCorrecta": "MIGUEL LAYÚN",
+      "wins": 82,
+      "equipos": ["Veracruz", "América"]
+    },
+    {
+      "respuestaCorrecta": "PAUL AGUILAR",
+      "wins": 81,
+      "equipos": ["Pachuca", "América"]
+    },
+    {
+      "respuestaCorrecta": "JOSÉ DE JESÚS CORONA",
+      "wins": 85,
+      "equipos": ["Atlas", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "ÓSCAR PÉREZ",
+      "wins": 86,
+      "equipos": ["Cruz Azul", "Pachuca"]
+    },
+    {
+      "respuestaCorrecta": "ALFREDO TALAVERA",
+      "wins": 82,
+      "equipos": ["Guadalajara", "Toluca"]
+    },
+    {
+      "respuestaCorrecta": "MOISÉS MUÑOZ",
+      "wins": 81,
+      "equipos": ["Morelia", "América"]
+    },
+    {
+      "respuestaCorrecta": "JONATHAN OROZCO",
+      "wins": 80,
+      "equipos": ["Monterrey", "Santos Laguna"]
+    },
+    {
+      "respuestaCorrecta": "HÉCTOR MORENO",
+      "wins": 86,
+      "equipos": ["Pumas UNAM", "AZ Alkmaar"]
+    },
+    {
+      "respuestaCorrecta": "CÉSAR MONTES",
+      "wins": 80,
+      "equipos": ["Monterrey", "Espanyol"]
+    },
+    {
+      "respuestaCorrecta": "JESÚS GALLARDO",
+      "wins": 79,
+      "equipos": ["Pumas UNAM", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "LUIS ROMO",
+      "wins": 79,
+      "equipos": ["Querétaro", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "ORBELÍN PINEDA",
+      "wins": 81,
+      "equipos": ["Querétaro", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "ROBERTO ALVARADO",
+      "wins": 80,
+      "equipos": ["Pachuca", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "URIEL ANTUNA",
+      "wins": 78,
+      "equipos": ["LA Galaxy", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "ALEXIS VEGA",
+      "wins": 80,
+      "equipos": ["Toluca", "Guadalajara"]
+    },
+    {
+      "respuestaCorrecta": "HENRY MARTÍN",
+      "wins": 84,
+      "equipos": ["Tijuana", "América"]
+    },
+    {
+      "respuestaCorrecta": "SANTIAGO GIMÉNEZ",
+      "wins": 83,
+      "equipos": ["Cruz Azul", "Feyenoord"]
+    },
+    {
+      "respuestaCorrecta": "JULIÁN QUIÑONES",
+      "wins": 85,
+      "equipos": ["Tigres UANL", "Atlas"]
+    },
+    {
+      "respuestaCorrecta": "CAMILO VARGAS",
+      "wins": 84,
+      "equipos": ["Deportivo Cali", "Atlas"]
+    },
+    {
+      "respuestaCorrecta": "ÁLVARO FIDALGO",
+      "wins": 82,
+      "equipos": ["Castellón", "América"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO CANALES",
+      "wins": 88,
+      "equipos": ["Real Betis", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "DANI ALVES",
+      "wins": 94,
+      "equipos": ["Barcelona", "Pumas UNAM"]
+    },
+    {
+      "respuestaCorrecta": "RONALDINHO",
+      "wins": 97,
+      "equipos": ["Barcelona", "Querétaro"]
+    },
+    {
+      "respuestaCorrecta": "IVÁN ZAMORANO",
+      "wins": 93,
+      "equipos": ["Real Madrid", "América"]
+    },
+    {
+      "respuestaCorrecta": "CLAUDIO LÓPEZ",
+      "wins": 90,
+      "equipos": ["Valencia", "América"]
+    },
+    {
+      "respuestaCorrecta": "LANDON DONOVAN",
+      "wins": 85,
+      "equipos": ["LA Galaxy", "León"]
+    },
+    {
+      "respuestaCorrecta": "PEP GUARDIOLA",
+      "wins": 95,
+      "equipos": ["Barcelona", "Dorados"]
+    },
+    {
+      "respuestaCorrecta": "EUSEBIO",
+      "wins": 96,
+      "equipos": ["Benfica", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "EMILIO BUTRAGUEÑO",
+      "wins": 94,
+      "equipos": ["Real Madrid", "Celaya"]
+    },
+    {
+      "respuestaCorrecta": "MÍCHEL",
+      "wins": 92,
+      "equipos": ["Real Madrid", "Celaya"]
+    },
+    {
+      "respuestaCorrecta": "BERND SCHUSTER",
+      "wins": 91,
+      "equipos": ["Barcelona", "Pumas UNAM"]
+    },
+    {
+      "respuestaCorrecta": "BEBETO",
+      "wins": 93,
+      "equipos": ["Deportivo", "Toros Neza"]
+    },
+    {
+      "respuestaCorrecta": "GRZEGORZ LATO",
+      "wins": 90,
+      "equipos": ["Stal Mielec", "Atlante"]
+    },
+    {
+      "respuestaCorrecta": "RENÉ HIGUITA",
+      "wins": 89,
+      "equipos": ["Atlético Nacional", "Veracruz"]
+    },
+    {
+      "respuestaCorrecta": "AQUIVALDO MOSQUERA",
+      "wins": 86,
+      "equipos": ["Pachuca", "América"]
+    },
+    {
+      "respuestaCorrecta": "BRUNO MARIONI",
+      "wins": 85,
+      "equipos": ["Pumas UNAM", "Toluca"]
+    },
+    {
+      "respuestaCorrecta": "KIKÍN FONSECA",
+      "wins": 83,
+      "equipos": ["Pumas UNAM", "Cruz Azul"]
+    },
+    {
+      "respuestaCorrecta": "VICENTE SÁNCHEZ",
+      "wins": 87,
+      "equipos": ["Toluca", "Schalke 04"]
+    },
+    {
+      "respuestaCorrecta": "MATÍAS VUOSO",
+      "wins": 84,
+      "equipos": ["Santos Laguna", "América"]
+    },
+    {
+      "respuestaCorrecta": "DANIEL LUDUEÑA",
+      "wins": 85,
+      "equipos": ["River Plate", "Santos Laguna"]
+    },
+    {
+      "respuestaCorrecta": "LEANDRO AUGUSTO",
+      "wins": 86,
+      "equipos": ["Pumas UNAM", "León"]
+    },
+    {
+      "respuestaCorrecta": "WALTER GAITÁN",
+      "wins": 87,
+      "equipos": ["Villarreal", "Tigres UANL"]
+    },
+    {
+      "respuestaCorrecta": "NÉRI CARDOZO",
+      "wins": 84,
+      "equipos": ["Boca Juniors", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "JOSÉ MARÍA BASANTA",
+      "wins": 83,
+      "equipos": ["Estudiantes", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "ROGELIO FUNES MORI",
+      "wins": 86,
+      "equipos": ["River Plate", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "AVILÉS HURTADO",
+      "wins": 82,
+      "equipos": ["Jaguares", "Monterrey"]
+    },
+    {
+      "respuestaCorrecta": "JULIO CÉSAR FURCH",
+      "wins": 83,
+      "equipos": ["Veracruz", "Santos Laguna"]
+    },
+    {
+      "respuestaCorrecta": "NICOLÁS IBÁÑEZ",
+      "wins": 82,
+      "equipos": ["Atlético San Luis", "Pachuca"]
+    },
+    {
+      "respuestaCorrecta": "DIEGO VALDÉS",
+      "wins": 84,
+      "equipos": ["Santos Laguna", "América"]
+    }
+  ]
+}
