@@ -1,1005 +1,1007 @@
 {
   "preguntas": [
     {
-      "respuestaCorrecta": "RADAMEL FALCAO GARCÍA",
+      "respuestaCorrecta": "RENE HIGUITA",
       "wins": 94,
-      "equipos": ["Lanceros Boyacá", "River Plate"]
+      "equipos": ["Atletico Nacional", "Real Valladolid"]
     },
     {
-      "respuestaCorrecta": "JAMES RODRÍGUEZ",
-      "wins": 95,
-      "equipos": ["Envigado FC", "Banfield"]
-    },
-    {
-      "respuestaCorrecta": "JUAN GUILLERMO CUADRADO",
-      "wins": 90,
-      "equipos": ["Independiente Medellín", "Lecce"]
-    },
-    {
-      "respuestaCorrecta": "DAVID OSPINA",
-      "wins": 89,
-      "equipos": ["Niza", "Al-Nassr"]
-    },
-    {
-      "respuestaCorrecta": "CARLOS BACCA",
-      "wins": 87,
-      "equipos": ["Barranquilla FC", "Club Brujas"]
-    },
-    {
-      "respuestaCorrecta": "JACKSON MARTÍNEZ",
-      "wins": 86,
-      "equipos": ["Jaguares de Chiapas", "Portimonense"]
-    },
-    {
-      "respuestaCorrecta": "CAMILO ZÚÑIGA",
-      "wins": 84,
-      "equipos": ["Siena", "Watford"]
-    },
-    {
-      "respuestaCorrecta": "PABLO ARMERO",
-      "wins": 83,
-      "equipos": ["Palmeiras", "West Ham United"]
-    },
-    {
-      "respuestaCorrecta": "LUIS DÍAZ",
-      "wins": 92,
-      "equipos": ["Barranquilla FC", "Porto"]
-    },
-    {
-      "respuestaCorrecta": "DUVÁN ZAPATA",
-      "wins": 85,
-      "equipos": ["Estudiantes de La Plata", "Udinese"]
-    },
-    {
-      "respuestaCorrecta": "LUIS FERNANDO MURIEL",
-      "wins": 84,
-      "equipos": ["Granada", "Lecce"]
-    },
-    {
-      "respuestaCorrecta": "YASSER ASPRILLA",
-      "wins": 79,
-      "equipos": ["Envigado FC", "Watford"]
-    },
-    {
-      "respuestaCorrecta": "JHON DURÁN",
-      "wins": 80,
-      "equipos": ["Envigado FC", "Chicago Fire"]
-    },
-    {
-      "respuestaCorrecta": "JORGE CARRASCAL",
-      "wins": 78,
-      "equipos": ["Karpaty Lviv", "CSKA Moscú"]
-    },
-    {
-      "respuestaCorrecta": "RAFAEL SANTOS BORRÉ",
-      "wins": 83,
-      "equipos": ["Villarreal", "Eintracht Frankfurt"]
-    },
-    {
-      "respuestaCorrecta": "JUAN CAMILO HERNÁNDEZ",
-      "wins": 81,
-      "equipos": ["Huesca", "Mallorca"]
-    },
-    {
-      "respuestaCorrecta": "SANTIAGO ARIAS",
-      "wins": 82,
-      "equipos": ["La Equidad", "Sporting de Lisboa"]
-    },
-    {
-      "respuestaCorrecta": "JEISON MURILLO",
-      "wins": 80,
-      "equipos": ["Cádiz", "Las Palmas"]
-    },
-    {
-      "respuestaCorrecta": "CRISTIAN ZAPATA",
-      "wins": 84,
-      "equipos": ["Udinese", "Genoa"]
-    },
-    {
-      "respuestaCorrecta": "YERRY MINA",
-      "wins": 85,
-      "equipos": ["Deportivo Pasto", "Cagliari"]
-    },
-    {
-      "respuestaCorrecta": "DÁVINSON SÁNCHEZ",
-      "wins": 86,
-      "equipos": ["Ajax", "Galatasaray"]
-    },
-    {
-      "respuestaCorrecta": "WILMAR BARRIOS",
-      "wins": 83,
-      "equipos": ["Deportes Tolima", "Boca Juniors"]
-    },
-    {
-      "respuestaCorrecta": "JEFFERSON LERMA",
-      "wins": 81,
-      "equipos": ["Atlético Huila", "Levante"]
-    },
-    {
-      "respuestaCorrecta": "MATEUS URIBE",
-      "wins": 82,
-      "equipos": ["Deportivo Español", "Al-Sadd"]
-    },
-    {
-      "respuestaCorrecta": "JOHAN MOJICA",
-      "wins": 79,
-      "equipos": ["Rayo Vallecano", "Elche"]
-    },
-    {
-      "respuestaCorrecta": "FRANK FABRA",
-      "wins": 80,
-      "equipos": ["Envigado FC", "Deportivo Cali"]
-    },
-    {
-      "respuestaCorrecta": "SEBASTIÁN VILLA",
-      "wins": 78,
-      "equipos": ["Deportes Tolima", "Beroe Stara Zagora"]
-    },
-    {
-      "respuestaCorrecta": "JHON ARIAS",
-      "wins": 83,
-      "equipos": ["Llaneros", "Patriotas Boyacá"]
-    },
-    {
-      "respuestaCorrecta": "RICHARD RÍOS",
-      "wins": 79,
-      "equipos": ["Flamengo", "Guarani FC"]
-    },
-    {
-      "respuestaCorrecta": "KEVIN MIER",
-      "wins": 78,
-      "equipos": ["Valledupar FC", "Cruz Azul"]
-    },
-    {
-      "respuestaCorrecta": "CAMILO VARGAS",
-      "wins": 82,
-      "equipos": ["Argentinos Juniors", "Atlas"]
-    },
-    {
-      "respuestaCorrecta": "STEFAN MEDINA",
-      "wins": 80,
-      "equipos": ["Pachuca", "Monterrey"]
-    },
-    {
-      "respuestaCorrecta": "EDWIN CARDONA",
-      "wins": 81,
-      "equipos": ["Tijuana", "Racing Club"]
-    },
-    {
-      "respuestaCorrecta": "GIOVANNI MORENO",
-      "wins": 84,
-      "equipos": ["Envigado FC", "Shanghai Shenhua"]
-    },
-    {
-      "respuestaCorrecta": "DORLAN PABÓN",
-      "wins": 83,
-      "equipos": ["Parma", "São Paulo"]
-    },
-    {
-      "respuestaCorrecta": "HUMBERTO MENDOZA",
-      "wins": 75,
-      "equipos": ["Atlético Nacional", "Real Cartagena"]
-    },
-    {
-      "respuestaCorrecta": "JAIRO PATIÑO",
-      "wins": 79,
-      "equipos": ["River Plate", "San Luis"]
-    },
-    {
-      "respuestaCorrecta": "TRESSOR MORENO",
-      "wins": 80,
-      "equipos": ["Alianza Lima", "Metz"]
-    },
-    {
-      "respuestaCorrecta": "JORGE BOLAÑO",
-      "wins": 81,
-      "equipos": ["Parma", "Modena"]
-    },
-    {
-      "respuestaCorrecta": "IVÁN RAMIRO CÓRDOBA",
-      "wins": 93,
-      "equipos": ["San Lorenzo", "Inter de Milán"]
-    },
-    {
-      "respuestaCorrecta": "JORGE BERMÚDEZ",
-      "wins": 89,
-      "equipos": ["Benfica", "Newell's Old Boys"]
-    },
-    {
-      "respuestaCorrecta": "MAURICIO SERNA",
-      "wins": 88,
-      "equipos": ["Deportivo Pereira", "Puebla"]
-    },
-    {
-      "respuestaCorrecta": "OSCAR CÓRDOBA",
-      "wins": 91,
-      "equipos": ["Perugia", "Besiktas"]
-    },
-    {
-      "respuestaCorrecta": "FARYD MONDRAGÓN",
-      "wins": 87,
-      "equipos": ["Cerro Porteño", "Galatasaray"]
-    },
-    {
-      "respuestaCorrecta": "ADOLFO VALENCIA",
-      "wins": 89,
-      "equipos": ["Bayern Múnich", "Atlético de Madrid"]
-    },
-    {
-      "respuestaCorrecta": "LEONEL ÁLVAREZ",
-      "wins": 90,
-      "equipos": ["Real Valladolid", "Dallas Burn"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS ESCOBAR",
-      "wins": 95,
-      "equipos": ["Atlético Nacional", "Young Boys"]
-    },
-    {
-      "respuestaCorrecta": "ALBEIRO USURIAGA",
-      "wins": 86,
-      "equipos": ["Independiente", "Málaga"]
-    },
-    {
-      "respuestaCorrecta": "MIGUEL ÁNGEL CALERO",
-      "wins": 90,
-      "equipos": ["Sporting de Barranquilla", "Pachuca"]
-    },
-    {
-      "respuestaCorrecta": "AQUIVALDO MOSQUERA",
-      "wins": 82,
-      "equipos": ["Sevilla", "Pachuca"]
-    },
-    {
-      "respuestaCorrecta": "AMARANTO PEREA",
-      "wins": 85,
-      "equipos": ["Boca Juniors", "Atlético de Madrid"]
-    },
-    {
-      "respuestaCorrecta": "ABEL AGUILAR",
-      "wins": 81,
-      "equipos": ["Udinese", "Hércules"]
-    },
-    {
-      "respuestaCorrecta": "CARLOS SÁNCHEZ",
-      "wins": 82,
-      "equipos": ["Valenciennes", "West Ham United"]
-    },
-    {
-      "respuestaCorrecta": "ELKIN SOTO",
-      "wins": 79,
-      "equipos": ["Barcelona SC", "Mainz 05"]
-    },
-    {
-      "respuestaCorrecta": "FABIÁN VARGAS",
-      "wins": 80,
-      "equipos": ["Internacional", "Almería"]
-    },
-    {
-      "respuestaCorrecta": "WASON RENTERÍA",
-      "wins": 78,
-      "equipos": ["Boyacá Chicó", "Sporting de Braga"]
-    },
-    {
-      "respuestaCorrecta": "HUGO RODALLEGA",
-      "wins": 80,
-      "equipos": ["Wigan Athletic", "Trabzonspor"]
-    },
-    {
-      "respuestaCorrecta": "ADRIÁN RAMOS",
-      "wins": 83,
-      "equipos": ["Hertha Berlín", "Granada"]
-    },
-    {
-      "respuestaCorrecta": "BERNARDO ESPINOSA",
-      "wins": 77,
-      "equipos": ["Sevilla", "Girona"]
-    },
-    {
-      "respuestaCorrecta": "PEDRO FRANCO",
-      "wins": 76,
-      "equipos": ["Besiktas", "Boluspor"]
-    },
-    {
-      "respuestaCorrecta": "EDER ÁLVAREZ BALANTA",
-      "wins": 79,
-      "equipos": ["River Plate", "Basilea"]
-    },
-    {
-      "respuestaCorrecta": "HELIBELTON PALACIOS",
-      "wins": 77,
-      "equipos": ["Club Brujas", "Elche"]
-    },
-    {
-      "respuestaCorrecta": "DEIVER MACHADO",
-      "wins": 78,
-      "equipos": ["Gent", "Lens"]
-    },
-    {
-      "respuestaCorrecta": "DANIEL MUÑOZ",
-      "wins": 81,
-      "equipos": ["Genk", "Crystal Palace"]
-    },
-    {
-      "respuestaCorrecta": "CARLOS CUESTA",
-      "wins": 79,
-      "equipos": ["Atlético Nacional", "Genk"]
-    },
-    {
-      "respuestaCorrecta": "JHON LUCUMÍ",
-      "wins": 80,
-      "equipos": ["Deportivo Cali", "Bolonia"]
-    },
-    {
-      "respuestaCorrecta": "KEVIN MANTILLA",
-      "wins": 74,
-      "equipos": ["Independiente Santa Fe", "Talleres de Córdoba"]
-    },
-    {
-      "respuestaCorrecta": "JUAN CAMILO PORTILLA",
-      "wins": 76,
-      "equipos": ["Alianza Petrolera", "Talleres de Córdoba"]
-    },
-    {
-      "respuestaCorrecta": "JAMINTON CAMPAZ",
-      "wins": 78,
-      "equipos": ["Deportes Tolima", "Gremio"]
-    },
-    {
-      "respuestaCorrecta": "DIEGO VALOYES",
-      "wins": 79,
-      "equipos": ["La Equidad", "Juárez"]
-    },
-    {
-      "respuestaCorrecta": "AVILÉS HURTADO",
-      "wins": 77,
-      "equipos": ["Pachuca", "Monterrey"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS RENTERÍA",
-      "wins": 75,
-      "equipos": ["Santos Laguna", "San Lorenzo"]
-    },
-    {
-      "respuestaCorrecta": "ALEXANDER MEJÍA",
-      "wins": 80,
-      "equipos": ["Monterrey", "Libertad"]
-    },
-    {
-      "respuestaCorrecta": "MACNELLY TORRES",
-      "wins": 84,
-      "equipos": ["Colo-Colo", "Al-Shabab"]
-    },
-    {
-      "respuestaCorrecta": "ALDO LEAO RAMÍREZ",
-      "wins": 81,
-      "equipos": ["Monarcas Morelia", "Atlas"]
-    },
-    {
-      "respuestaCorrecta": "VLADIMIR MARÍN",
-      "wins": 78,
-      "equipos": ["Jorge Wilstermann", "Libertad"]
-    },
-    {
-      "respuestaCorrecta": "JUAN PABLO ÁNGEL",
-      "wins": 88,
-      "equipos": ["Aston Villa", "New York Red Bulls"]
-    },
-    {
-      "respuestaCorrecta": "HAMILTON RICARD",
-      "wins": 80,
-      "equipos": ["Middlesbrough", "Emelec"]
-    },
-    {
-      "respuestaCorrecta": "LÉIDER PRECIADO",
-      "wins": 79,
-      "equipos": ["Racing de Santander", "Deportivo Quito"]
-    },
-    {
-      "respuestaCorrecta": "JAIRO CASTILLO",
-      "wins": 81,
-      "equipos": ["Vélez Sarsfield", "Real Valladolid"]
-    },
-    {
-      "respuestaCorrecta": "VÍCTOR BONILLA",
-      "wins": 78,
-      "equipos": ["Toulouse", "Montpellier"]
-    },
-    {
-      "respuestaCorrecta": "JOHN VIÁFARA",
-      "wins": 77,
-      "equipos": ["Portsmouth", "Southampton"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS PÉREZ",
-      "wins": 76,
-      "equipos": ["Quilmes", "San Lorenzo"]
-    },
-    {
-      "respuestaCorrecta": "GERARDO BEDOYA",
-      "wins": 82,
-      "equipos": ["Racing Club", "Colón"]
-    },
-    {
-      "respuestaCorrecta": "MAYER CANDELO",
-      "wins": 80,
-      "equipos": ["Vélez Sarsfield", "Universidad de Chile"]
-    },
-    {
-      "respuestaCorrecta": "DAVID FERREIRA",
-      "wins": 79,
-      "equipos": ["Atlético Paranaense", "FC Dallas"]
-    },
-    {
-      "respuestaCorrecta": "MARTÍN ARZUAGA",
-      "wins": 77,
-      "equipos": ["Rosario Central", "Veracruz"]
-    },
-    {
-      "respuestaCorrecta": "EDIXON PEREA",
-      "wins": 76,
-      "equipos": ["Burdeos", "Changchun Yatai"]
-    },
-    {
-      "respuestaCorrecta": "JULIÁN ANCHICO",
-      "wins": 75,
-      "equipos": ["Pachuca", "Independiente Santa Fe"]
-    },
-    {
-      "respuestaCorrecta": "LUIS CARLOS RUIZ",
-      "wins": 76,
-      "equipos": ["Shanghai Shenhua", "Sport Recife"]
-    },
-    {
-      "respuestaCorrecta": "YIMMI CHARÁ",
-      "wins": 79,
-      "equipos": ["Atlético Mineiro", "Portland Timbers"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS MENDOZA",
-      "wins": 73,
-      "equipos": ["América de Cali", "New York City FC"]
-    },
-    {
-      "respuestaCorrecta": "HANYER MOSQUERA",
-      "wins": 72,
-      "equipos": ["Portland Timbers", "Rionegro Águilas"]
-    },
-    {
-      "respuestaCorrecta": "MICHAEL ORTEGA",
-      "wins": 75,
-      "equipos": ["Bayer Leverkusen", "Bochum"]
-    },
-    {
-      "respuestaCorrecta": "BRAYAN PEREA",
-      "wins": 74,
-      "equipos": ["Lazio", "Troyes"]
-    },
-    {
-      "respuestaCorrecta": "JOÃO RODRÍGUEZ",
-      "wins": 71,
-      "equipos": ["Bastia", "Sint-Truiden"]
-    },
-    {
-      "respuestaCorrecta": "MARLOS MORENO",
-      "wins": 76,
-      "equipos": ["Deportivo La Coruña", "Girona"]
-    },
-    {
-      "respuestaCorrecta": "SEBASTIÁN PÉREZ",
-      "wins": 77,
-      "equipos": ["Boca Juniors", "Boavista"]
-    },
-    {
-      "respuestaCorrecta": "GUILLERMO CELIS",
-      "wins": 75,
-      "equipos": ["Benfica", "Vitória Guimarães"]
-    },
-    {
-      "respuestaCorrecta": "LUIS OREJUELA",
-      "wins": 76,
-      "equipos": ["Ajax", "Cruzeiro"]
-    } ,
-{
-      "respuestaCorrecta": "IAGO FALQUE",
-      "wins": 85,
-      "equipos": ["Tottenham Hotspur", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "FRANCO ARMANI",
+      "respuestaCorrecta": "CARLOS VALDERRAMA",
       "wins": 96,
-      "equipos": ["Deportivo Merlo", "River Plate"]
+      "equipos": ["Junior", "Montpellier"]
     },
     {
-      "respuestaCorrecta": "SEBASTIÁN VIERA",
-      "wins": 94,
-      "equipos": ["Villarreal", "Junior"]
-    },
-    {
-      "respuestaCorrecta": "ALFREDO DI STÉFANO",
-      "wins": 99,
-      "equipos": ["River Plate", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "ADOLFO PEDERNERA",
-      "wins": 97,
-      "equipos": ["Huracán", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "GARRINCHA",
-      "wins": 98,
-      "equipos": ["Botafogo", "Junior"]
-    },
-    {
-      "respuestaCorrecta": "DRAGOSLAV SEKULARAC",
-      "wins": 88,
-      "equipos": ["Estrella Roja", "Independiente Santa Fe"]
-    },
-    {
-      "respuestaCorrecta": "JULIO CÉSAR FALCIONI",
-      "wins": 92,
-      "equipos": ["Vélez Sarsfield", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "RICARDO GARECA",
-      "wins": 93,
-      "equipos": ["Sarmiento de Junín", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "SERGIO GOYCOCHEA",
-      "wins": 90,
-      "equipos": ["River Plate", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "ROBERTO CABAÑAS",
-      "wins": 91,
-      "equipos": ["New York Cosmos", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "CÉSAR CUETO",
-      "wins": 89,
-      "equipos": ["Alianza Lima", "Atlético Nacional"]
-    },
-    {
-      "respuestaCorrecta": "NAVARRO MONTOYA",
-      "wins": 87,
-      "equipos": ["Vélez Sarsfield", "Independiente Santa Fe"]
-    },
-    {
-      "respuestaCorrecta": "JUAN GILBERTO FUNES",
-      "wins": 86,
-      "equipos": ["River Plate", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "ANTONY DE ÁVILA",
+      "respuestaCorrecta": "FREDDY RINCON",
       "wins": 95,
-      "equipos": ["Unión de Santa Fe", "MetroStars"]
+      "equipos": ["America de Cali", "Real Madrid"]
     },
     {
-      "respuestaCorrecta": "LUIS JAVIER SUÁREZ",
-      "wins": 82,
-      "equipos": ["Leones FC", "Almería"]
+      "respuestaCorrecta": "FAUSTINO ASPRILLA",
+      "wins": 95,
+      "equipos": ["Atletico Nacional", "Newcastle United"]
     },
     {
-      "respuestaCorrecta": "LUIS SINISTERRA",
-      "wins": 84,
-      "equipos": ["Once Caldas", "Feyenoord"]
+      "respuestaCorrecta": "VICTOR ARISTIZABAL",
+      "wins": 92,
+      "equipos": ["Atletico Nacional", "Sao Paulo"]
     },
     {
-      "respuestaCorrecta": "JHON CÓRDOBA",
-      "wins": 83,
-      "equipos": ["Envigado FC", "Colonia"]
-    },
-    {
-      "respuestaCorrecta": "MATEO CASSIERRA",
-      "wins": 81,
-      "equipos": ["Deportivo Cali", "Zenit"]
-    },
-    {
-      "respuestaCorrecta": "JHON SOLÍS",
-      "wins": 78,
-      "equipos": ["Atlético Nacional", "Girona"]
-    },
-    {
-      "respuestaCorrecta": "YERSON MOSQUERA",
-      "wins": 79,
-      "equipos": ["Atlético Nacional", "Wolverhampton"]
-    },
-    {
-      "respuestaCorrecta": "JUAN DAVID CABAL",
-      "wins": 77,
-      "equipos": ["Atlético Nacional", "Hellas Verona"]
-    },
-    {
-      "respuestaCorrecta": "GUSTAVO PUERTA",
-      "wins": 76,
-      "equipos": ["Bogotá FC", "Bayer Leverkusen"]
-    },
-    {
-      "respuestaCorrecta": "OSCAR CORTÉS",
-      "wins": 75,
-      "equipos": ["Millonarios", "Lens"]
-    },
-    {
-      "respuestaCorrecta": "JORMAN CAMPUZANO",
-      "wins": 80,
-      "equipos": ["Deportivo Pereira", "Boca Juniors"]
-    },
-    {
-      "respuestaCorrecta": "ROGER MARTÍNEZ",
-      "wins": 82,
-      "equipos": ["Racing Club", "Jiangsu Suning"]
-    },
-    {
-      "respuestaCorrecta": "MAO MOLINA",
-      "wins": 88,
-      "equipos": ["Independiente Medellín", "Seongnam Ilhwa"]
-    },
-    {
-      "respuestaCorrecta": "ARNULFO VALENTIERRA",
-      "wins": 85,
-      "equipos": ["Once Caldas", "Al-Hilal"]
-    },
-    {
-      "respuestaCorrecta": "ELKIN MURILLO",
-      "wins": 83,
-      "equipos": ["Deportes Quindío", "LDU Quito"]
-    },
-    {
-      "respuestaCorrecta": "HERLY ALCÁZAR",
-      "wins": 81,
-      "equipos": ["Junior", "Universidad de Chile"]
-    },
-    {
-      "respuestaCorrecta": "SAMUEL VANEGAS",
-      "wins": 84,
-      "equipos": ["Once Caldas", "Atlético Paranaense"]
-    },
-    {
-      "respuestaCorrecta": "VÍCTOR PACHECO",
-      "wins": 87,
-      "equipos": ["Junior", "Atlante"]
-    },
-    {
-      "respuestaCorrecta": "OSWALDO MACKENZIE",
-      "wins": 86,
-      "equipos": ["Real Cartagena", "Alianza Lima"]
-    },
-    {
-      "respuestaCorrecta": "RUBÉN DARÍO BUSTOS",
-      "wins": 82,
-      "equipos": ["Cúcuta Deportivo", "Gremio"]
-    },
-    {
-      "respuestaCorrecta": "BLAS PÉREZ",
-      "wins": 85,
-      "equipos": ["Cúcuta Deportivo", "FC Dallas"]
-    },
-    {
-      "respuestaCorrecta": "LUIS TEJADA",
-      "wins": 84,
-      "equipos": ["Millonarios", "Toluca"]
-    },
-    {
-      "respuestaCorrecta": "ROMÁN TORRES",
-      "wins": 86,
-      "equipos": ["La Equidad", "Seattle Sounders"]
-    },
-    {
-      "respuestaCorrecta": "FELIPE BALOY",
-      "wins": 83,
-      "equipos": ["Envigado FC", "Monterrey"]
-    },
-    {
-      "respuestaCorrecta": "NICOLÁS VIKONIS",
-      "wins": 80,
-      "equipos": ["Patriotas Boyacá", "Puebla"]
-    },
-    {
-      "respuestaCorrecta": "MATÍAS PISANO",
-      "wins": 79,
-      "equipos": ["Chacarita Juniors", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "NETO VOLPI",
-      "wins": 78,
-      "equipos": ["Figueirense", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "ADRIÁN ARREGUI",
-      "wins": 81,
-      "equipos": ["Temperley", "Independiente Medellín"]
-    },
-    {
-      "respuestaCorrecta": "LUCIANO PONS",
-      "wins": 77,
-      "equipos": ["Atlanta", "Independiente Medellín"]
-    },
-    {
-      "respuestaCorrecta": "JUAN IGNACIO DINENNO",
-      "wins": 82,
-      "equipos": ["Deportivo Cali", "Pumas UNAM"]
-    },
-    {
-      "respuestaCorrecta": "AGUSTÍN PALAVECINO",
-      "wins": 80,
-      "equipos": ["Platense", "River Plate"]
-    },
-    {
-      "respuestaCorrecta": "WUILKER FARÍÑEZ",
-      "wins": 83,
-      "equipos": ["Caracas FC", "Lens"]
-    },
-    {
-      "respuestaCorrecta": "MATÍAS DE LOS SANTOS",
-      "wins": 79,
-      "equipos": ["Danubio", "Vélez Sarsfield"]
-    },
-    {
-      "respuestaCorrecta": "PABLO CEPELLINI",
-      "wins": 78,
-      "equipos": ["Peñarol", "Cuiabá"]
-    },
-    {
-      "respuestaCorrecta": "SANTIAGO MELE",
-      "wins": 77,
-      "equipos": ["Plaza Colonia", "Junior"]
-    },
-    {
-      "respuestaCorrecta": "JOSÉ ENAMORADO",
-      "wins": 76,
-      "equipos": ["Orsomarso", "Independiente Santa Fe"]
-    },
-    {
-      "respuestaCorrecta": "WALMER PACHECO",
-      "wins": 78,
-      "equipos": ["Uniautónoma", "Junior"]
-    },
-    {
-      "respuestaCorrecta": "DIBER CAMBINDO",
-      "wins": 79,
-      "equipos": ["Deportes Quindío", "Cruz Azul"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS IBARGÜEN",
-      "wins": 81,
-      "equipos": ["Cortuluá", "América (México)"]
-    },
-    {
-      "respuestaCorrecta": "DUVÁN VERGARA",
-      "wins": 82,
-      "equipos": ["Envigado FC", "Monterrey"]
-    },
-    {
-      "respuestaCorrecta": "NICOLÁS BENEDETTI",
-      "wins": 79,
-      "equipos": ["Deportivo Cali", "Mazatlán"]
-    },
-    {
-      "respuestaCorrecta": "HAROLD PRECIADO",
-      "wins": 80,
-      "equipos": ["Jaguares de Córdoba", "Shenzhen FC"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS ROA",
-      "wins": 78,
-      "equipos": ["Deportivo Cali", "Independiente (Arg)"]
-    },
-    {
-      "respuestaCorrecta": "GERMÁN MERA",
-      "wins": 77,
-      "equipos": ["Deportivo Cali", "Mechelen"]
-    },
-    {
-      "respuestaCorrecta": "KEVIN BALANTA",
-      "wins": 76,
-      "equipos": ["Deportivo Cali", "Tijuana"]
-    },
-    {
-      "respuestaCorrecta": "CARLOS CARBONERO",
-      "wins": 81,
-      "equipos": ["Atlético Huila", "Cesena"]
-    },
-    {
-      "respuestaCorrecta": "LUIS MANUEL SEIJAS",
-      "wins": 84,
-      "equipos": ["Caracas FC", "Standard Lieja"]
-    },
-    {
-      "respuestaCorrecta": "FRANCISCO MEZA",
-      "wins": 80,
-      "equipos": ["Independiente Santa Fe", "Tigres UANL"]
-    },
-    {
-      "respuestaCorrecta": "DANIEL TORRES",
-      "wins": 82,
-      "equipos": ["Independiente Medellín", "Alavés"]
-    },
-    {
-      "respuestaCorrecta": "JUAN DANIEL ROA",
-      "wins": 79,
-      "equipos": ["Independiente Santa Fe", "Alianza Petrolera"]
-    },
-    {
-      "respuestaCorrecta": "FARID DÍAZ",
-      "wins": 83,
-      "equipos": ["Atlético Nacional", "Olimpia"]
-    },
-    {
-      "respuestaCorrecta": "ALEXIS HENRÍQUEZ",
-      "wins": 85,
-      "equipos": ["Once Caldas", "Atlético Nacional"]
-    },
-    {
-      "respuestaCorrecta": "ALEJANDRO GUERRA",
-      "wins": 84,
-      "equipos": ["Mineros de Guayana", "Palmeiras"]
-    },
-    {
-      "respuestaCorrecta": "ORLANDO BERRÍO",
-      "wins": 81,
-      "equipos": ["Patriotas Boyacá", "Flamengo"]
-    },
-    {
-      "respuestaCorrecta": "JUAN PABLO RAMÍREZ",
-      "wins": 76,
-      "equipos": ["Leones FC", "Bahía"]
-    },
-    {
-      "respuestaCorrecta": "YEISON GUZMÁN",
-      "wins": 78,
-      "equipos": ["Envigado FC", "Deportes Tolima"]
-    },
-    {
-      "respuestaCorrecta": "NELSON DEOSSA",
-      "wins": 79,
-      "equipos": ["Atlético Huila", "Pachuca"]
-    },
-    {
-      "respuestaCorrecta": "JUAN PABLO VARGAS",
-      "wins": 80,
-      "equipos": ["Herediano", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "EMERSON RIVALDO",
-      "wins": 77,
-      "equipos": ["Millonarios", "Inter Miami"]
-    },
-    {
-      "respuestaCorrecta": "ANDRÉS LLINÁS",
-      "wins": 78,
-      "equipos": ["Valledupar FC", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "LARRY VÁSQUEZ",
-      "wins": 76,
-      "equipos": ["Patriotas Boyacá", "Junior"]
-    },
-    {
-      "respuestaCorrecta": "OSCAR MURILLO",
-      "wins": 81,
-      "equipos": ["Deportes Quindío", "Pachuca"]
-    },
-    {
-      "respuestaCorrecta": "ELSON BECERRA",
-      "wins": 82,
-      "equipos": ["Deportes Tolima", "Al-Jazira"]
-    },
-    {
-      "respuestaCorrecta": "JOHN CHARRIA",
-      "wins": 83,
-      "equipos": ["Deportes Tolima", "Atlético Nacional"]
-    },
-    {
-      "respuestaCorrecta": "FABIÁN CASTILLO",
-      "wins": 79,
-      "equipos": ["Deportivo Cali", "Trabzonspor"]
-    },
-    {
-      "respuestaCorrecta": "LUIS GABRIEL REY",
-      "wins": 85,
-      "equipos": ["Atlético Bucaramanga", "América (México)"]
-    },
-    {
-      "respuestaCorrecta": "HÉCTOR HURTADO",
-      "wins": 80,
-      "equipos": ["América de Cali", "Internacional"]
-    },
-    {
-      "respuestaCorrecta": "ARLEY DINAS",
-      "wins": 81,
-      "equipos": ["Deportes Tolima", "Boca Juniors"]
-    },
-    {
-      "respuestaCorrecta": "RICARDO CICILIANO",
-      "wins": 84,
-      "equipos": ["Deportes Tolima", "Juan Aurich"]
-    },
-    {
-      "respuestaCorrecta": "JORGE AGUDELO",
-      "wins": 77,
-      "equipos": ["Once Caldas", "Patriotas Boyacá"]
-    },
-    {
-      "respuestaCorrecta": "EFRAÍN SÁNCHEZ",
-      "wins": 94,
-      "equipos": ["San Lorenzo", "Independiente Medellín"]
-    },
-    {
-      "respuestaCorrecta": "DELIO GAMBOA",
-      "wins": 93,
-      "equipos": ["Oro de México", "Millonarios"]
-    },
-    {
-      "respuestaCorrecta": "MARCO COLL",
-      "wins": 91,
-      "equipos": ["Deportes Tolima", "América de Cali"]
-    },
-    {
-      "respuestaCorrecta": "ALEJANDRO BRAND",
-      "wins": 90,
-      "equipos": ["Millonarios", "Atlético Nacional"]
-    },
-    {
-      "respuestaCorrecta": "JAIME MORÓN",
+      "respuestaCorrecta": "IVAN RENE VALENCIANO",
       "wins": 89,
+      "equipos": ["Junior", "Atalanta"]
+    },
+    {
+      "respuestaCorrecta": "ARNOLDO IGUARAN",
+      "wins": 90,
+      "equipos": ["Millonarios", "Cucuta Deportivo"]
+    },
+    {
+      "respuestaCorrecta": "WILLINGTON ORTIZ",
+      "wins": 94,
+      "equipos": ["Millonarios", "America de Cali"]
+    },
+    {
+      "respuestaCorrecta": "MARIO YEPES",
+      "wins": 93,
+      "equipos": ["Deportivo Cali", "AC Milan"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO GALVAN REY",
+      "wins": 91,
+      "equipos": ["Once Caldas", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "OMAR PEREZ",
+      "wins": 88,
+      "equipos": ["Independiente Santa Fe", "Boca Juniors"]
+    },
+    {
+      "respuestaCorrecta": "JUAN CARLOS HENAO",
+      "wins": 89,
+      "equipos": ["Once Caldas", "Santos"]
+    },
+    {
+      "respuestaCorrecta": "GERMAN CANO",
+      "wins": 87,
+      "equipos": ["Independiente Medellin", "Fluminense"]
+    },
+    {
+      "respuestaCorrecta": "DAYRO MORENO",
+      "wins": 88,
+      "equipos": ["Once Caldas", "Tijuana"]
+    },
+    {
+      "respuestaCorrecta": "TEOFILO GUTIERREZ",
+      "wins": 89,
+      "equipos": ["Junior", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "MIGUEL ANGEL BORJA",
+      "wins": 86,
+      "equipos": ["Atletico Nacional", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "VICTOR CANTILLO",
+      "wins": 82,
+      "equipos": ["Junior", "Corinthians"]
+    },
+    {
+      "respuestaCorrecta": "JARLAN BARRERA",
+      "wins": 80,
+      "equipos": ["Junior", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "VLADIMIR HERNANDEZ",
+      "wins": 81,
+      "equipos": ["Junior", "Santos"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS DARWIN QUINTERO",
+      "wins": 84,
+      "equipos": ["Deportes Tolima", "America (Mexico)"]
+    },
+    {
+      "respuestaCorrecta": "JUAN FERNANDO QUINTERO",
+      "wins": 87,
+      "equipos": ["Independiente Medellin", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "DAVID MACALISTER SILVA",
+      "wins": 82,
       "equipos": ["Millonarios", "Deportes Tolima"]
     },
     {
-      "respuestaCorrecta": "PEDRO ZAPE",
-      "wins": 92,
-      "equipos": ["Deportivo Cali", "América de Cali"]
+      "respuestaCorrecta": "DANIEL RUIZ",
+      "wins": 79,
+      "equipos": ["Millonarios", "Santos"]
     },
     {
-      "respuestaCorrecta": "BERNARDO REDÍN",
-      "wins": 88,
-      "equipos": ["Deportivo Cali", "CSKA Sofía"]
+      "respuestaCorrecta": "CHICHO ARANGO",
+      "wins": 83,
+      "equipos": ["Millonarios", "Los Angeles FC"]
     },
     {
-      "respuestaCorrecta": "LUIS FERNANDO HERRERA",
-      "wins": 89,
-      "equipos": ["Atlético Nacional", "América de Cali"]
+      "respuestaCorrecta": "CARLOS ANDRES GOMEZ",
+      "wins": 78,
+      "equipos": ["Millonarios", "Real Salt Lake"]
     },
     {
-      "respuestaCorrecta": "ALEXIS GARCÍA",
-      "wins": 87,
-      "equipos": ["Once Caldas", "Atlético Nacional"]
+      "respuestaCorrecta": "JONATAN GOMEZ",
+      "wins": 80,
+      "equipos": ["Independiente Santa Fe", "Rosario Central"]
     },
     {
-      "respuestaCorrecta": "LUIS ALFONSO FAJARDO",
-      "wins": 86,
-      "equipos": ["Atlético Nacional", "Atlético Huila"]
+      "respuestaCorrecta": "WILSON MORELO",
+      "wins": 82,
+      "equipos": ["Independiente Santa Fe", "Colon"]
     },
     {
-      "respuestaCorrecta": "ALEX ESCOBAR",
-      "wins": 88,
-      "equipos": ["América de Cali", "LDU Quito"]
+      "respuestaCorrecta": "WILDER MEDINA",
+      "wins": 81,
+      "equipos": ["Independiente Santa Fe", "Deportes Tolima"]
     },
     {
-      "respuestaCorrecta": "GUILLERMO LA ROSA",
+      "respuestaCorrecta": "LUIS CARLOS ARIAS",
+      "wins": 79,
+      "equipos": ["Independiente Medellin", "Independiente Santa Fe"]
+    },
+    {
+      "respuestaCorrecta": "LEANDRO CASTELLANOS",
+      "wins": 81,
+      "equipos": ["Independiente Santa Fe", "Cucuta Deportivo"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS VALDES",
+      "wins": 83,
+      "equipos": ["Independiente Santa Fe", "San Lorenzo"]
+    },
+    {
+      "respuestaCorrecta": "WILLIAM TESILLO",
+      "wins": 82,
+      "equipos": ["Independiente Santa Fe", "Leon"]
+    },
+    {
+      "respuestaCorrecta": "BALDOMERO PERLAZA",
+      "wins": 78,
+      "equipos": ["Atletico Nacional", "Colon"]
+    },
+    {
+      "respuestaCorrecta": "ALVARO MONTERO",
+      "wins": 82,
+      "equipos": ["Deportes Tolima", "Millonarios"]
+    },
+    {
+      "respuestaCorrecta": "DANOVIS BANGUERO",
+      "wins": 79,
+      "equipos": ["Deportes Tolima", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "MARCO PEREZ",
+      "wins": 80,
+      "equipos": ["Deportes Tolima", "Gimnasia La Plata"]
+    },
+    {
+      "respuestaCorrecta": "ANDERSON PLATA",
+      "wins": 77,
+      "equipos": ["Deportes Tolima", "Al-Adalah"]
+    },
+    {
+      "respuestaCorrecta": "JUAN DAVID RIOS",
+      "wins": 78,
+      "equipos": ["Deportes Tolima", "Deportivo Pereira"]
+    },
+    {
+      "respuestaCorrecta": "JULIAN QUIÑONES",
+      "wins": 81,
+      "equipos": ["Deportes Tolima", "Independiente Santa Fe"]
+    },
+    {
+      "respuestaCorrecta": "JOHN JAIRO TRELLEZ",
       "wins": 85,
-      "equipos": ["Alianza Lima", "Atlético Nacional"]
+      "equipos": ["Atletico Nacional", "Boca Juniors"]
     },
     {
-      "respuestaCorrecta": "LEOPOLDO LUQUE",
-      "wins": 87,
-      "equipos": ["River Plate", "Unión Magdalena"]
+      "respuestaCorrecta": "CARMELO VALENCIA",
+      "wins": 80,
+      "equipos": ["Atletico Nacional", "Junior"]
     },
     {
-      "respuestaCorrecta": "OMAR CORBATTA",
-      "wins": 89,
-      "equipos": ["Racing Club", "Independiente Medellín"]
+      "respuestaCorrecta": "JEFFERSON DUQUE",
+      "wins": 81,
+      "equipos": ["Atletico Nacional", "Atlas"]
     },
     {
-      "respuestaCorrecta": "NÉSTOR RAÚL ROSSI",
-      "wins": 96,
-      "equipos": ["River Plate", "Millonarios"]
+      "respuestaCorrecta": "VICTOR IBARBO",
+      "wins": 83,
+      "equipos": ["Atletico Nacional", "Cagliari"]
     },
     {
-      "respuestaCorrecta": "ANDRÉS PÉREZ",
+      "respuestaCorrecta": "JAIRO PALOMINO",
+      "wins": 78,
+      "equipos": ["Atletico Nacional", "Al-Ahli"]
+    },
+    {
+      "respuestaCorrecta": "ELKIN BLANCO",
+      "wins": 76,
+      "equipos": ["Millonarios", "Sheriff Tiraspol"]
+    },
+    {
+      "respuestaCorrecta": "ANDRES CADAVID",
+      "wins": 79,
+      "equipos": ["Millonarios", "Independiente Medellin"]
+    },
+    {
+      "respuestaCorrecta": "ANDRES RICAURTE",
+      "wins": 78,
+      "equipos": ["Independiente Medellin", "FC Dallas"]
+    },
+    {
+      "respuestaCorrecta": "DAVID GONZALEZ",
+      "wins": 83,
+      "equipos": ["Independiente Medellin", "Manchester City"]
+    },
+    {
+      "respuestaCorrecta": "JOHN JAVIER RESTREPO",
       "wins": 84,
+      "equipos": ["Independiente Medellin", "Tigres UANL"]
+    },
+    {
+      "respuestaCorrecta": "CHRISTIAN MARRUGO",
+      "wins": 82,
+      "equipos": ["Independiente Medellin", "Pachuca"]
+    },
+    {
+      "respuestaCorrecta": "HERNAN HECHALAR",
+      "wins": 77,
+      "equipos": ["Independiente Medellin", "Atletico Huila"]
+    },
+    {
+      "respuestaCorrecta": "LEONARDO CASTRO",
+      "wins": 80,
+      "equipos": ["Independiente Medellin", "Millonarios"]
+    },
+    {
+      "respuestaCorrecta": "ALFONSO CAÑON",
+      "wins": 89,
+      "equipos": ["Independiente Santa Fe", "Atletico Bucaramanga"]
+    },
+    {
+      "respuestaCorrecta": "ERNESTO DIAZ",
+      "wins": 87,
+      "equipos": ["Independiente Santa Fe", "Junior"]
+    },
+    {
+      "respuestaCorrecta": "GABRIEL OCHOA URIBE",
+      "wins": 86,
+      "equipos": ["Millonarios", "America de Cali"]
+    },
+    {
+      "respuestaCorrecta": "JAIRO ARBOLEDA",
+      "wins": 85,
+      "equipos": ["Deportivo Cali", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS ARANGO",
+      "wins": 84,
+      "equipos": ["Deportes Caldas", "Millonarios"]
+    },
+    {
+      "respuestaCorrecta": "HERNAN GAVIRIA",
+      "wins": 88,
+      "equipos": ["Atletico Nacional", "Deportivo Cali"]
+    },
+    {
+      "respuestaCorrecta": "EULALIO ARRIAGA",
+      "wins": 79,
+      "equipos": ["Junior", "Puebla"]
+    },
+    {
+      "respuestaCorrecta": "JERSSON GONZALEZ",
+      "wins": 82,
+      "equipos": ["America de Cali", "Galatasaray"]
+    },
+    {
+      "respuestaCorrecta": "FRANKIE OVIEDO",
+      "wins": 83,
+      "equipos": ["America de Cali", "America (Mexico)"]
+    },
+    {
+      "respuestaCorrecta": "EDISON MAFLA",
+      "wins": 84,
+      "equipos": ["Deportivo Cali", "Villarreal"]
+    },
+    {
+      "respuestaCorrecta": "JHON MARIO RAMIREZ",
+      "wins": 85,
+      "equipos": ["Millonarios", "Deportivo Cali"]
+    },
+    {
+      "respuestaCorrecta": "BONNER MOSQUERA",
+      "wins": 84,
+      "equipos": ["Millonarios", "Defensor Sporting"]
+    },
+    {
+      "respuestaCorrecta": "HAROLD LOZANO",
+      "wins": 87,
+      "equipos": ["America de Cali", "Mallorca"]
+    },
+    {
+      "respuestaCorrecta": "RAFAEL DUDAMEL",
+      "wins": 86,
+      "equipos": ["Deportivo Cali", "Millonarios"]
+    },
+    {
+      "respuestaCorrecta": "LUIS DELGADO",
+      "wins": 78,
+      "equipos": ["Millonarios", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "NELSON RAMOS",
+      "wins": 79,
+      "equipos": ["Millonarios", "Deportivo Quito"]
+    },
+    {
+      "respuestaCorrecta": "JOSE FERNANDO CUADRADO",
+      "wins": 79,
+      "equipos": ["Once Caldas", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "HARLEN CASTILLO",
+      "wins": 77,
+      "equipos": ["Deportivo Pereira", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "ANDRES MOSQUERA MARMOLEJO",
+      "wins": 78,
+      "equipos": ["Independiente Medellin", "Bogota FC"]
+    },
+    {
+      "respuestaCorrecta": "JULIAN VASQUEZ",
+      "wins": 80,
+      "equipos": ["America de Cali", "Newell's Old Boys"]
+    },
+    {
+      "respuestaCorrecta": "LEONARDO FABIO MORENO",
+      "wins": 79,
+      "equipos": ["America de Cali", "San Lorenzo"]
+    },
+    {
+      "respuestaCorrecta": "MAURICIO ROMERO",
+      "wins": 78,
+      "equipos": ["America de Cali", "Castellon"]
+    },
+    {
+      "respuestaCorrecta": "ROBINSON ZAPATA",
+      "wins": 82,
+      "equipos": ["Independiente Santa Fe", "Steaua Bucarest"]
+    },
+    {
+      "respuestaCorrecta": "YESUS CABRERA",
+      "wins": 79,
+      "equipos": ["America de Cali", "Cuiaba"]
+    },
+    {
+      "respuestaCorrecta": "LUIS PAZ",
+      "wins": 77,
+      "equipos": ["America de Cali", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "MARLON TORRES",
+      "wins": 78,
+      "equipos": ["America de Cali", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "RAFAEL CARRASCAL",
+      "wins": 79,
+      "equipos": ["America de Cali", "Cerro Porteño"]
+    },
+    {
+      "respuestaCorrecta": "MICHAEL RANGEL",
+      "wins": 80,
+      "equipos": ["America de Cali", "Junior"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS SIERRA",
+      "wins": 78,
+      "equipos": ["America de Cali", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "RODRIGO UREÑA",
+      "wins": 77,
+      "equipos": ["America de Cali", "Universitario"]
+    },
+    {
+      "respuestaCorrecta": "EDWIN VELASCO",
+      "wins": 76,
+      "equipos": ["America de Cali", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS BEJARANO",
+      "wins": 77,
+      "equipos": ["America de Cali", "Independiente Medellin"]
+    },
+    {
+      "respuestaCorrecta": "GIOVANNI HERNANDEZ",
+      "wins": 89,
+      "equipos": ["Junior", "Colo-Colo"]
+    },
+    {
+      "respuestaCorrecta": "MARTIN ZAPATA",
+      "wins": 77,
+      "equipos": ["Deportivo Cali", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "ALVARO DOMINGUEZ",
+      "wins": 81,
+      "equipos": ["Deportivo Cali", "FC Sion"]
+    },
+    {
+      "respuestaCorrecta": "ANDRES COLORADO",
+      "wins": 78,
+      "equipos": ["Deportivo Cali", "Partizan"]
+    },
+    {
+      "respuestaCorrecta": "JHON VASQUEZ",
+      "wins": 79,
+      "equipos": ["Deportivo Cali", "Alagoano"]
+    },
+    {
+      "respuestaCorrecta": "ANGELO RODRIGUEZ",
+      "wins": 78,
+      "equipos": ["Deportivo Cali", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "HERNAN MENOSSE",
+      "wins": 77,
+      "equipos": ["Deportivo Cali", "Peñarol"]
+    },
+    {
+      "respuestaCorrecta": "JULIO COMESAÑA",
+      "wins": 84,
+      "equipos": ["Junior", "Independiente Medellin"]
+    },
+    {
+      "respuestaCorrecta": "JUAN RAMON VERON",
+      "wins": 90,
+      "equipos": ["Junior", "Estudiantes de La Plata"]
+    },
+    {
+      "respuestaCorrecta": "EDGARDO BAUZA",
+      "wins": 86,
+      "equipos": ["Junior", "Rosario Central"]
+    },
+    {
+      "respuestaCorrecta": "DULIO MIRANDA",
+      "wins": 85,
+      "equipos": ["Junior", "Independiente Medellin"]
+    },
+    {
+      "respuestaCorrecta": "GABRIEL BERDUGO",
+      "wins": 83,
+      "equipos": ["Junior", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "ALEXIS MENDOZA",
+      "wins": 87,
+      "equipos": ["Junior", "America de Cali"]
+    },
+    {
+      "respuestaCorrecta": "LUIS GRAU",
+      "wins": 81,
+      "equipos": ["Junior", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "JOSE MARIA PAZO",
+      "wins": 82,
+      "equipos": ["Junior", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "LUIS NARVAEZ",
+      "wins": 78,
+      "equipos": ["Junior", "Union Magdalena"]
+    },
+    {
+      "respuestaCorrecta": "JAMES SANCHEZ",
+      "wins": 77,
+      "equipos": ["Junior", "Alianza Petrolera"]
+    },
+    {
+      "respuestaCorrecta": "MARLON PIEDRAHITA",
+      "wins": 79,
+      "equipos": ["Junior", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "GABRIEL FUENTES",
+      "wins": 78,
+      "equipos": ["Junior", "Real Zaragoza"]
+    },
+    {
+      "respuestaCorrecta": "HOMER MARTINEZ",
+      "wins": 76,
+      "equipos": ["Junior", "Atletico Bucaramanga"]
+    },
+    {
+      "respuestaCorrecta": "DIDIER MORENO",
+      "wins": 80,
+      "equipos": ["Junior", "Deportivo La Coruña"]
+    },
+    {
+      "respuestaCorrecta": "EDGAR CATAÑO",
+      "wins": 81,
+      "equipos": ["Once Caldas", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "MAURICIO CASIERRA",
+      "wins": 79,
+      "equipos": ["Once Caldas", "Estudiantes de La Plata"]
+    },
+    {
+      "respuestaCorrecta": "RUBEN DARIO VELASQUEZ",
+      "wins": 80,
+      "equipos": ["Once Caldas", "Colon"]
+    },
+    {
+      "respuestaCorrecta": "JOHAN FANO",
+      "wins": 82,
+      "equipos": ["Once Caldas", "Universitario"]
+    },
+    {
+      "respuestaCorrecta": "HARRISON HENAO",
+      "wins": 77,
+      "equipos": ["Once Caldas", "Colorado Rapids"]
+    },
+    {
+      "respuestaCorrecta": "VICTOR HUGO DEL RIO",
+      "wins": 84,
+      "equipos": ["Deportes Tolima", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "JULIO COZZI",
+      "wins": 91,
+      "equipos": ["Millonarios", "Platense"]
+    },
+    {
+      "respuestaCorrecta": "JUAN CARLOS DELMENICO",
+      "wins": 85,
+      "equipos": ["Junior", "Estudiantes de La Plata"]
+    },
+    {
+      "respuestaCorrecta": "LORENZO CARRABS",
+      "wins": 83,
+      "equipos": ["Atletico Nacional", "Danubio"]
+    },
+    {
+      "respuestaCorrecta": "JULIO CESAR URIBE",
+      "wins": 88,
+      "equipos": ["Junior", "Sporting Cristal"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS ENRIQUE",
+      "wins": 82,
+      "equipos": ["Independiente Medellin", "Independiente"]
+    },
+    {
+      "respuestaCorrecta": "JOSE LUIS BROWN",
+      "wins": 89,
+      "equipos": ["Atletico Nacional", "Estudiantes de La Plata"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO SANTIN",
+      "wins": 84,
+      "equipos": ["Atletico Nacional", "Peñarol"]
+    },
+    {
+      "respuestaCorrecta": "JUAN MANUEL BATTAGLIA",
+      "wins": 87,
+      "equipos": ["America de Cali", "Cerro Porteño"]
+    },
+    {
+      "respuestaCorrecta": "ROQUE ALFARO",
+      "wins": 85,
+      "equipos": ["America de Cali", "Newell's Old Boys"]
+    },
+    {
+      "respuestaCorrecta": "AMADEO CARRIZO",
+      "wins": 95,
+      "equipos": ["Millonarios", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "JOSE MANUEL MORENO",
+      "wins": 97,
+      "equipos": ["Independiente Medellin", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "HECTOR RIAL",
+      "wins": 92,
+      "equipos": ["Independiente Santa Fe", "Real Madrid"]
+    },
+    {
+      "respuestaCorrecta": "RENE PONTONI",
+      "wins": 90,
+      "equipos": ["Independiente Santa Fe", "San Lorenzo"]
+    },
+    {
+      "respuestaCorrecta": "CLAUDIO BORGHI",
+      "wins": 88,
+      "equipos": ["Independiente Santa Fe", "Argentinos Juniors"]
+    },
+    {
+      "respuestaCorrecta": "OSCAR HECTOR QUINTABANI",
+      "wins": 81,
+      "equipos": ["Deportes Tolima", "Argentinos Juniors"]
+    },
+    {
+      "respuestaCorrecta": "MARIO VANEMERAK",
+      "wins": 84,
+      "equipos": ["Millonarios", "Velez Sarsfield"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS RENDON",
+      "wins": 82,
+      "equipos": ["Millonarios", "Deportivo Pasto"]
+    },
+    {
+      "respuestaCorrecta": "ARIEL CARREÑO",
+      "wins": 76,
+      "equipos": ["Millonarios", "Boca Juniors"]
+    },
+    {
+      "respuestaCorrecta": "MATIAS URBANO",
+      "wins": 78,
       "equipos": ["Millonarios", "San Lorenzo"]
+    },
+    {
+      "respuestaCorrecta": "ALFONSO DOMINGUEZ",
+      "wins": 83,
+      "equipos": ["Millonarios", "Peñarol"]
+    },
+    {
+      "respuestaCorrecta": "NELSON GUTIERREZ",
+      "wins": 85,
+      "equipos": ["Atletico Nacional", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "JORGE DA SILVA",
+      "wins": 87,
+      "equipos": ["America de Cali", "Defensor Sporting"]
+    },
+    {
+      "respuestaCorrecta": "MIGUEL ANGEL CONVERTI",
+      "wins": 83,
+      "equipos": ["Millonarios", "Banfield"]
+    },
+    {
+      "respuestaCorrecta": "OSWALDO MARCIAL PALAVECINO",
+      "wins": 86,
+      "equipos": ["Atletico Nacional", "Once Caldas"]
+    },
+    {
+      "respuestaCorrecta": "HUGO HORACIO LONDERO",
+      "wins": 85,
+      "equipos": ["Atletico Nacional", "Cucuta Deportivo"]
+    },
+    {
+      "respuestaCorrecta": "JORGE RAMON CACERES",
+      "wins": 84,
+      "equipos": ["America de Cali", "Deportivo Pereira"]
+    },
+    {
+      "respuestaCorrecta": "OTHON ALBERTO DACUNHA",
+      "wins": 82,
+      "equipos": ["Junior", "Botafogo"]
+    },
+    {
+      "respuestaCorrecta": "EMANUEL OLIVERA",
+      "wins": 78,
+      "equipos": ["Atletico Nacional", "Colon"]
+    },
+    {
+      "respuestaCorrecta": "FACUNDO SUAREZ",
+      "wins": 76,
+      "equipos": ["America de Cali", "Oriente Petrolero"]
+    },
+    {
+      "respuestaCorrecta": "GONZALO LENCINA",
+      "wins": 75,
+      "equipos": ["Atletico Bucaramanga", "Belgrano"]
+    },
+    {
+      "respuestaCorrecta": "MARCUS VINICIUS",
+      "wins": 74,
+      "equipos": ["Atletico Huila", "Baju"]
+    },
+    {
+      "respuestaCorrecta": "FRANCISCO CHAVERRA",
+      "wins": 75,
+      "equipos": ["Independiente Santa Fe", "La Equidad"]
+    },
+    {
+      "respuestaCorrecta": "FABIAN SAMBUEZA",
+      "wins": 80,
+      "equipos": ["Junior", "Independiente Santa Fe"]
+    },
+    {
+      "respuestaCorrecta": "SHERMAN CARDENAS",
+      "wins": 81,
+      "equipos": ["Atletico Bucaramanga", "LDU Quito"]
+    },
+    {
+      "respuestaCorrecta": "DANIEL CATAÑO",
+      "wins": 80,
+      "equipos": ["Millonarios", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "LEO CASTRO",
+      "wins": 82,
+      "equipos": ["Millonarios", "Independiente Medellin"]
+    },
+    {
+      "respuestaCorrecta": "AYRON DEL VALLE",
+      "wins": 79,
+      "equipos": ["Millonarios", "Alianza Petrolera"]
+    },
+    {
+      "respuestaCorrecta": "JORGE PORRAS",
+      "wins": 84,
+      "equipos": ["America de Cali", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "GABRIEL HERNANDEZ",
+      "wins": 81,
+      "equipos": ["Millonarios", "Union Magdalena"]
+    },
+    {
+      "respuestaCorrecta": "RICARDO PEREZ",
+      "wins": 82,
+      "equipos": ["Millonarios", "LDU Quito"]
+    },
+    {
+      "respuestaCorrecta": "GUILLERMO BERRIO",
+      "wins": 78,
+      "equipos": ["Atletico Huila", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "JORGE ARIAS",
+      "wins": 77,
+      "equipos": ["Millonarios", "Junior"]
+    },
+    {
+      "respuestaCorrecta": "DANNY ROSERO",
+      "wins": 78,
+      "equipos": ["Junior", "Sporting Kansas City"]
+    },
+    {
+      "respuestaCorrecta": "JEFFERSON MARTINEZ",
+      "wins": 76,
+      "equipos": ["Atletico Bucaramanga", "Junior"]
+    },
+    {
+      "respuestaCorrecta": "EDER CHAUX",
+      "wins": 77,
+      "equipos": ["Patriotas Boyacá", "America de Cali"]
+    },
+    {
+      "respuestaCorrecta": "ALDAIR QUINTANA",
+      "wins": 78,
+      "equipos": ["Atletico Nacional", "Atletico Bucaramanga"]
+    },
+    {
+      "respuestaCorrecta": "DIEGO NOVOA",
+      "wins": 76,
+      "equipos": ["La Equidad", "America de Cali"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO MOSQUERA",
+      "wins": 78,
+      "equipos": ["Deportes Tolima", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "LUIS HAQUIN",
+      "wins": 75,
+      "equipos": ["Deportivo Cali", "Bolivar"]
+    },
+    {
+      "respuestaCorrecta": "GIAN FRANCO PEÑA",
+      "wins": 74,
+      "equipos": ["America de Cali", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "BRAYAN ROVIRA",
+      "wins": 76,
+      "equipos": ["Atletico Nacional", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "SEBASTIAN GOMEZ",
+      "wins": 80,
+      "equipos": ["Atletico Nacional", "Coritiba"]
+    },
+    {
+      "respuestaCorrecta": "JHON FREDY PEREZ",
+      "wins": 77,
+      "equipos": ["Atletico Bucaramanga", "Alianza Petrolera"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER REINA",
+      "wins": 78,
+      "equipos": ["Independiente Medellin", "Colo-Colo"]
+    },
+    {
+      "respuestaCorrecta": "HARRISON MOJICA",
+      "wins": 76,
+      "equipos": ["Millonarios", "Alianza Petrolera"]
+    },
+    {
+      "respuestaCorrecta": "JUAN CARLOS PEREIRA",
+      "wins": 79,
+      "equipos": ["Millonarios", "Union Magdalena"]
+    },
+    {
+      "respuestaCorrecta": "STIVEN VEGA",
+      "wins": 78,
+      "equipos": ["Millonarios", "Valledupar FC"]
+    },
+    {
+      "respuestaCorrecta": "ELVIS PERLAZA",
+      "wins": 77,
+      "equipos": ["Millonarios", "Independiente Santa Fe"]
+    },
+    {
+      "respuestaCorrecta": "OMAR BERTEL",
+      "wins": 76,
+      "equipos": ["Millonarios", "Llaneros"]
+    },
+    {
+      "respuestaCorrecta": "FELIPE BANGUERO",
+      "wins": 75,
+      "equipos": ["Millonarios", "Alianza Petrolera"]
+    },
+    {
+      "respuestaCorrecta": "JOHAN ARANGO",
+      "wins": 79,
+      "equipos": ["Once Caldas", "Independiente Santa Fe"]
+    },
+    {
+      "respuestaCorrecta": "CLEIDER ALZATE",
+      "wins": 76,
+      "equipos": ["Deportes Tolima", "Deportivo Pasto"]
+    },
+    {
+      "respuestaCorrecta": "DIEGO HERAZO",
+      "wins": 78,
+      "equipos": ["Millonarios", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "CARLOS HENAO",
+      "wins": 77,
+      "equipos": ["Independiente Santa Fe", "Atletico Bucaramanga"]
+    },
+    {
+      "respuestaCorrecta": "PABLO ROJAS",
+      "wins": 78,
+      "equipos": ["Jaguares de Cordoba", "Junior"]
+    },
+    {
+      "respuestaCorrecta": "GUSTAVO TORRES",
+      "wins": 75,
+      "equipos": ["Atletico Nacional", "San Lorenzo"]
+    },
+    {
+      "respuestaCorrecta": "BRAYAN FERNANDEZ",
+      "wins": 74,
+      "equipos": ["Patriotas Boyacá", "Atletico Bucaramanga"]
+    },
+    {
+      "respuestaCorrecta": "EDWAR LOPEZ",
+      "wins": 76,
+      "equipos": ["Independiente Medellin", "Deportivo Pasto"]
+    },
+    {
+      "respuestaCorrecta": "KEVIN VELASCO",
+      "wins": 80,
+      "equipos": ["Deportivo Cali", "Puebla"]
+    },
+    {
+      "respuestaCorrecta": "JOHAN WALLENS",
+      "wins": 73,
+      "equipos": ["Deportivo Cali", "Bogota FC"]
+    },
+    {
+      "respuestaCorrecta": "JUAN CAMILO ANGULO",
+      "wins": 78,
+      "equipos": ["America de Cali", "Deportivo Cali"]
+    },
+    {
+      "respuestaCorrecta": "DARWIN ANDRADE",
+      "wins": 79,
+      "equipos": ["Deportivo Cali", "Standard Lieja"]
+    },
+    {
+      "respuestaCorrecta": "CRISTIAN NASUTI",
+      "wins": 81,
+      "equipos": ["Deportivo Cali", "River Plate"]
+    },
+    {
+      "respuestaCorrecta": "LUIS ENRIQUE MARTINEZ",
+      "wins": 82,
+      "equipos": ["Once Caldas", "Independiente Santa Fe"]
+    },
+    {
+      "respuestaCorrecta": "JUAN GUILLERMO DOMINGUEZ",
+      "wins": 77,
+      "equipos": ["Millonarios", "Colo-Colo"]
+    },
+    {
+      "respuestaCorrecta": "JAVIER ARAUJO",
+      "wins": 80,
+      "equipos": ["Boyaca Chico", "Millonarios"]
+    },
+    {
+      "respuestaCorrecta": "EDIGSON VELASQUEZ",
+      "wins": 78,
+      "equipos": ["Atletico Nacional", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "GERARDO VALLEJO",
+      "wins": 82,
+      "equipos": ["Deportes Tolima", "Deportivo Pasto"]
+    },
+    {
+      "respuestaCorrecta": "BRAHIAN PALACIOS",
+      "wins": 76,
+      "equipos": ["Atletico Nacional", "Atletico Mineiro"]
+    },
+    {
+      "respuestaCorrecta": "TOMAS ANGEL",
+      "wins": 75,
+      "equipos": ["Atletico Nacional", "Los Angeles FC"]
+    },
+    {
+      "respuestaCorrecta": "MILTON RODRIGUEZ",
+      "wins": 81,
+      "equipos": ["Deportivo Cali", "FC Dallas"]
+    },
+    {
+      "respuestaCorrecta": "SERGIO HERRERA",
+      "wins": 80,
+      "equipos": ["America de Cali", "Al Ittihad"]
+    },
+    {
+      "respuestaCorrecta": "PEPE PORTOCARRERO",
+      "wins": 81,
+      "equipos": ["Independiente Santa Fe", "San Lorenzo"]
+    },
+    {
+      "respuestaCorrecta": "ROBERTO POLO",
+      "wins": 76,
+      "equipos": ["La Equidad", "Llaneros"]
+    },
+    {
+      "respuestaCorrecta": "STALIN MOTTA",
+      "wins": 83,
+      "equipos": ["La Equidad", "Atletico Nacional"]
+    },
+    {
+      "respuestaCorrecta": "JORGE BANGUERO",
+      "wins": 80,
+      "equipos": ["America de Cali", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "BREINER CASTILLO",
+      "wins": 79,
+      "equipos": ["Deportivo Cali", "Deportes Tolima"]
+    },
+    {
+      "respuestaCorrecta": "ANDRES SALAZAR",
+      "wins": 75,
+      "equipos": ["Atletico Nacional", "Valledupar FC"]
+    },
+    {
+      "respuestaCorrecta": "JHON PAJOY",
+      "wins": 78,
+      "equipos": ["Once Caldas", "Pachuca"]
     }
+  ]
+}
  
 
   ]
