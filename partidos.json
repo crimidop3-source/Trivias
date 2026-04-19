@@ -1,0 +1,275 @@
+{
+  "fechaNombre": "Liga BetPlay 2026 - Fase Regular",
+  "fechas": [
+    {
+      "numero": 1,
+      "partidos": [
+        { "local": "Pereira", "visita": "Llaneros" },
+        { "local": "Fortaleza", "visita": "Alianza" },
+        { "local": "America", "visita": "Internacional" },
+        { "local": "Nacional", "visita": "Boyaca Chico" },
+        { "local": "Bucaramanga", "visita": "Millonarios" },
+        { "local": "Pasto", "visita": "Medellin" },
+        { "local": "Jaguares", "visita": "Cali" },
+        { "local": "Junior", "visita": "Tolima" },
+        { "local": "Santa Fe", "visita": "Aguilas" },
+        { "local": "Cucuta", "visita": "Once Caldas" }
+      ]
+    },
+    {
+      "numero": 2,
+      "partidos": [
+        { "local": "Internacional", "visita": "Cucuta" },
+        { "local": "Tolima", "visita": "Alianza" },
+        { "local": "Pereira", "visita": "Fortaleza" },
+        { "local": "Llaneros", "visita": "Bucaramanga" },
+        { "local": "Cali", "visita": "Medellin" },
+        { "local": "Boyaca Chico", "visita": "America" },
+        { "local": "Aguilas", "visita": "Pasto" },
+        { "local": "Millonarios", "visita": "Junior" },
+        { "local": "Once Caldas", "visita": "Santa Fe" },
+        { "local": "Nacional", "visita": "Jaguares" }
+      ]
+    },
+    {
+      "numero": 3,
+      "partidos": [
+        { "local": "Cucuta", "visita": "Bucaramanga" },
+        { "local": "Fortaleza", "visita": "Llaneros" },
+        { "local": "Medellin", "visita": "Tolima" },
+        { "local": "Alianza", "visita": "Boyaca Chico" },
+        { "local": "Santa Fe", "visita": "Pereira" },
+        { "local": "Pasto", "visita": "Millonarios" },
+        { "local": "Aguilas", "visita": "Cali" },
+        { "local": "Jaguares", "visita": "Internacional" },
+        { "local": "America", "visita": "Once Caldas" },
+        { "local": "Junior", "visita": "Nacional" }
+      ]
+    },
+    {
+      "numero": 4,
+      "partidos": [
+        { "local": "Cucuta", "visita": "Fortaleza" },
+        { "local": "Boyaca Chico", "visita": "Santa Fe" },
+        { "local": "Bucaramanga", "visita": "Alianza" },
+        { "local": "Cali", "visita": "Pasto" },
+        { "local": "Once Caldas", "visita": "Jaguares" },
+        { "local": "Millonarios", "visita": "Medellin" },
+        { "local": "Llaneros", "visita": "Aguilas" },
+        { "local": "Internacional", "visita": "Tolima" },
+        { "local": "Pereira", "visita": "Junior" },
+        { "local": "Nacional", "visita": "America" }
+      ]
+    },
+    {
+      "numero": 5,
+      "partidos": [
+        { "local": "Pasto", "visita": "Bucaramanga" },
+        { "local": "Medellin", "visita": "Internacional" },
+        { "local": "Aguilas", "visita": "Cucuta" },
+        { "local": "Tolima", "visita": "Llaneros" },
+        { "local": "Junior", "visita": "Boyaca Chico" },
+        { "local": "Alianza", "visita": "Once Caldas" },
+        { "local": "Cali", "visita": "Millonarios" },
+        { "local": "Jaguares", "visita": "Pereira" },
+        { "local": "Fortaleza", "visita": "America" },
+        { "local": "Santa Fe", "visita": "Nacional" }
+      ]
+    },
+    {
+      "numero": 6,
+      "partidos": [
+        { "local": "Cucuta", "visita": "Medellin" },
+        { "local": "Llaneros", "visita": "Pasto" },
+        { "local": "Bucaramanga", "visita": "Tolima" },
+        { "local": "Internacional", "visita": "Cali" },
+        { "local": "Millonarios", "visita": "Aguilas" },
+        { "local": "Boyaca Chico", "visita": "Jaguares" },
+        { "local": "Once Caldas", "visita": "Junior" },
+        { "local": "Nacional", "visita": "Fortaleza" },
+        { "local": "America", "visita": "Santa Fe" },
+        { "local": "Pereira", "visita": "Alianza" }
+      ]
+    },
+    {
+      "numero": 7,
+      "partidos": [
+        { "local": "Millonarios", "visita": "Llaneros" },
+        { "local": "Medellin", "visita": "Pereira" },
+        { "local": "Pasto", "visita": "Internacional" },
+        { "local": "Tolima", "visita": "Once Caldas" },
+        { "local": "Cali", "visita": "Nacional" },
+        { "local": "Fortaleza", "visita": "Boyaca Chico" },
+        { "local": "Alianza", "visita": "Cucuta" },
+        { "local": "Jaguares", "visita": "Santa Fe" },
+        { "local": "Junior", "visita": "America" },
+        { "local": "Aguilas", "visita": "Bucaramanga" }
+      ]
+    },
+    {
+      "numero": 8,
+      "partidos": [
+        { "local": "Llaneros", "visita": "Medellin" },
+        { "local": "Pereira", "visita": "Pasto" },
+        { "local": "Once Caldas", "visita": "Fortaleza" },
+        { "local": "Bucaramanga", "visita": "Cali" },
+        { "local": "Nacional", "visita": "Alianza" },
+        { "local": "Internacional", "visita": "Millonarios" },
+        { "local": "Santa Fe", "visita": "Junior" },
+        { "local": "Boyaca Chico", "visita": "Aguilas" },
+        { "local": "America", "visita": "Jaguares" },
+        { "local": "Cucuta", "visita": "Tolima" }
+      ]
+    },
+    {
+      "numero": 9,
+      "partidos": [
+        { "local": "Millonarios", "visita": "Pereira" },
+        { "local": "Once Caldas", "visita": "Boyaca Chico" },
+        { "local": "Alianza", "visita": "America" },
+        { "local": "Jaguares", "visita": "Junior" },
+        { "local": "Medellin", "visita": "Bucaramanga" },
+        { "local": "Pasto", "visita": "Cucuta" },
+        { "local": "Aguilas", "visita": "Internacional" },
+        { "local": "Cali", "visita": "Llaneros" },
+        { "local": "Tolima", "visita": "Nacional" },
+        { "local": "Fortaleza", "visita": "Santa Fe" }
+      ]
+    },
+    {
+      "numero": 11,
+      "partidos": [
+        { "local": "Once Caldas", "visita": "Pasto" },
+        { "local": "Nacional", "visita": "Llaneros" },
+        { "local": "Internacional", "visita": "Bucaramanga" },
+        { "local": "Cucuta", "visita": "Cali" },
+        { "local": "Boyaca Chico", "visita": "Millonarios" },
+        { "local": "Santa Fe", "visita": "Alianza" },
+        { "local": "Pereira", "visita": "Aguilas" },
+        { "local": "America", "visita": "Tolima" },
+        { "local": "Jaguares", "visita": "Medellin" },
+        { "local": "Junior", "visita": "Fortaleza" }
+      ]
+    },
+    {
+      "numero": 12,
+      "partidos": [
+        { "local": "Llaneros", "visita": "Cucuta" },
+        { "local": "Bucaramanga", "visita": "Once Caldas" },
+        { "local": "Millonarios", "visita": "Nacional" },
+        { "local": "Pasto", "visita": "Boyaca Chico" },
+        { "local": "Internacional", "visita": "Pereira" },
+        { "local": "Cali", "visita": "Santa Fe" },
+        { "local": "Alianza", "visita": "Jaguares" },
+        { "local": "Tolima", "visita": "Fortaleza" },
+        { "local": "Medellin", "visita": "Junior" },
+        { "local": "Aguilas", "visita": "America" }
+      ]
+    },
+    {
+      "numero": 13,
+      "partidos": [
+        { "local": "Once Caldas", "visita": "Millonarios" },
+        { "local": "Alianza", "visita": "Cali" },
+        { "local": "Pereira", "visita": "Cucuta" },
+        { "local": "Nacional", "visita": "Internacional" },
+        { "local": "Boyaca Chico", "visita": "Tolima" },
+        { "local": "Santa Fe", "visita": "Medellin" },
+        { "local": "Jaguares", "visita": "Aguilas" },
+        { "local": "Junior", "visita": "Bucaramanga" },
+        { "local": "Fortaleza", "visita": "Pasto" },
+        { "local": "America", "visita": "Llaneros" }
+      ]
+    },
+    {
+      "numero": 14,
+      "partidos": [
+        { "local": "Pasto", "visita": "Nacional" },
+        { "local": "Aguilas", "visita": "Alianza" },
+        { "local": "Cucuta", "visita": "Boyaca Chico" },
+        { "local": "Llaneros", "visita": "Once Caldas" },
+        { "local": "Tolima", "visita": "Jaguares" },
+        { "local": "Millonarios", "visita": "Fortaleza" },
+        { "local": "Bucaramanga", "visita": "Santa Fe" },
+        { "local": "Internacional", "visita": "Junior" },
+        { "local": "Medellin", "visita": "America" },
+        { "local": "Cali", "visita": "Pereira" }
+      ]
+    },
+    {
+      "numero": 15,
+      "partidos": [
+        { "local": "Tolima", "visita": "Aguilas" },
+        { "local": "Nacional", "visita": "Cucuta" },
+        { "local": "America", "visita": "Bucaramanga" },
+        { "local": "Alianza", "visita": "Pasto" },
+        { "local": "Fortaleza", "visita": "Internacional" },
+        { "local": "Once Caldas", "visita": "Medellin" },
+        { "local": "Jaguares", "visita": "Millonarios" },
+        { "local": "Santa Fe", "visita": "Llaneros" },
+        { "local": "Junior", "visita": "Cali" },
+        { "local": "Boyaca Chico", "visita": "Pereira" }
+      ]
+    },
+    {
+      "numero": 16,
+      "partidos": [
+        { "local": "Medellin", "visita": "Nacional" },
+        { "local": "Pasto", "visita": "Tolima" },
+        { "local": "Internacional", "visita": "Alianza" },
+        { "local": "Bucaramanga", "visita": "Boyaca Chico" },
+        { "local": "Pereira", "visita": "Once Caldas" },
+        { "local": "Llaneros", "visita": "Jaguares" },
+        { "local": "Cali", "visita": "Fortaleza" },
+        { "local": "Millonarios", "visita": "Santa Fe" },
+        { "local": "Aguilas", "visita": "Junior" },
+        { "local": "Cucuta", "visita": "America" }
+      ]
+    },
+    {
+      "numero": 17,
+      "partidos": [
+        { "local": "Fortaleza", "visita": "Aguilas" },
+        { "local": "Santa Fe", "visita": "Cucuta" },
+        { "local": "Nacional", "visita": "Bucaramanga" },
+        { "local": "Jaguares", "visita": "Pasto" },
+        { "local": "Once Caldas", "visita": "Internacional" },
+        { "local": "Alianza", "visita": "Medellin" },
+        { "local": "America", "visita": "Millonarios" },
+        { "local": "Junior", "visita": "Llaneros" },
+        { "local": "Boyaca Chico", "visita": "Cali" },
+        { "local": "Tolima", "visita": "Pereira" }
+      ]
+    },
+    {
+      "numero": 18,
+      "partidos": [
+        { "local": "Pereira", "visita": "Nacional" },
+        { "local": "Millonarios", "visita": "Tolima" },
+        { "local": "Llaneros", "visita": "Alianza" },
+        { "local": "Internacional", "visita": "Boyaca Chico" },
+        { "local": "Aguilas", "visita": "Once Caldas" },
+        { "local": "Bucaramanga", "visita": "Jaguares" },
+        { "local": "Medellin", "visita": "Fortaleza" },
+        { "local": "Pasto", "visita": "Santa Fe" },
+        { "local": "Cucuta", "visita": "Junior" },
+        { "local": "Cali", "visita": "America" }
+      ]
+    },
+    {
+      "numero": 19,
+      "partidos": [
+        { "local": "Once Caldas", "visita": "Nacional" },
+        { "local": "Medellin", "visita": "Aguilas" },
+        { "local": "Jaguares", "visita": "Cucuta" },
+        { "local": "Fortaleza", "visita": "Bucaramanga" },
+        { "local": "Junior", "visita": "Pasto" },
+        { "local": "Santa Fe", "visita": "Internacional" },
+        { "local": "Alianza", "visita": "Millonarios" },
+        { "local": "Boyaca Chico", "visita": "Llaneros" },
+        { "local": "Tolima", "visita": "Cali" },
+        { "local": "America", "visita": "Pereira" }
+      ]
+    }
+  ]
+}
